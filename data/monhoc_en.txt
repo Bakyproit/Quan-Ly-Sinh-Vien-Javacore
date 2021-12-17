@@ -1,0 +1,22 @@
+# Ma - Ten - he so
+001;Tin Dai Cuong I;1.0
+002;Tin Dai Cuong II;2.0
+003;Toan cao cap I;1.0
+004;Toan Cao Cap II;3.0
+005;GDQP;3.0
+006;GDTC;2.5
+007;Triet Mac;3.0
+008;Tu tuong HCM;2.0
+009;Cau truc may tinh;3.0
+010;Cau truc DL;2.5
+011;He thong thong Tin;3.0
+012;Ky thuat phan mem;2.5
+013;Van tru hoc;1.0
+014;Quy hoach phi tuyen;1.0
+015;Mo hinh toan kinh te;2.0
+016;Quy hoach tuyen tinh;3.0
+017;Thuat toan toi uu;1.0
+018;Quan tri doanh nghiep;2.5
+019;Ly thuyet tro choi;2.5
+020;Kinh te luong;3.0
+021;Bat dang thuc bien phan;3.0

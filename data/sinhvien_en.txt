@@ -1,0 +1,2167 @@
+SV00001;Vo Ngoc;Dung;01/09/1996;Nam
+SV00002;Hoang Tran Duc;Hanh;27/01/1997;Nu
+SV00003;Ngo Thi Thuy;Trang;20/08/1997;Nu
+SV00004;Nguyen Thanh Hien;Linh;14/02/1996;Nu
+SV00005;Tran Hoang Thanh;Xuan;02/02/1996;Nu
+SV00006;Phan Thi Hong;Nhi;24/09/1997;Nu
+SV00007;Le Ngoc Nguyen;Phuong;04/07/1997;Nu
+SV00008;Ngo Nguyen;Khoi;14/02/1999;Nam
+SV00009;Vo Thi Khanh;Luu;30/10/1996;Nu
+SV00010;Vu Thanh;Quynh;15/09/1998;Nu
+SV00011;Nguyen Hoang Nhat;Anh;30/05/1997;Nam
+SV00012;Chung Nguyen Anh;Bao;09/01/1998;Nam
+SV00013;Le Van Tuan;Cuong;10/04/1997;Nam
+SV00014;Nguyen Thi My;Duyen;26/06/1998;Nu
+SV00015;Vo Thi;Duyen;30/07/1998;Nu
+SV00016;Ho Thi Kim;Diem;31/03/1998;Nu
+SV00017;Ngo Viet Phuong;Dong;16/01/1997;Nam
+SV00018;Nguyen Trong;Duc;06/06/1998;Nam
+SV00019;Nguyen Ngoc Thanh;Hang;26/02/1997;Nu
+SV00020;Nguyen Thi Thuy;Hang;08/02/1997;Nu
+SV00021;Nguyen Thi Thu;Hien;18/03/1998;Nu
+SV00022;Phan Thi;Hien;26/10/1997;Nu
+SV00023;Tran Thi;Hoa;01/08/1996;Nu
+SV00024;Tran Thi Thu;Hoa;04/07/1998;Nu
+SV00025;Tran Dinh;Hung;06/08/1997;Nam
+SV00026;Nguyen Thi Thu;Huong;31/10/1998;Nu
+SV00027;Hoang Nguyen;Linh;09/11/1998;Nam
+SV00028;Nguyen Trang Khanh;Linh;24/08/1998;Nu
+SV00029;Le Thi;Lu;09/01/1998;Nu
+SV00030;Nguyen Thi;Ly;10/07/1997;Nu
+SV00031;Nguyen Tat Quynh;Mai;26/09/1997;Nu
+SV00032;Phan Thi Da;Man;20/05/1998;Nu
+SV00033;Le Hong;Mi;16/12/1998;Nu
+SV00034;Do Thai Quang;Minh;28/01/1998;Nam
+SV00035;Nguyen Thi;Na;10/09/1998;Nu
+SV00036;Tran Trung;Nguyen;22/04/1996;Nam
+SV00037;Phan Thi;Nhan;17/04/1996;Nu
+SV00038;Cao Thi Phuong;Nhi;08/01/1998;Nu
+SV00039;Nguyen Thi Quynh;Nhu;09/08/1997;Nu
+SV00040;Tong Quynh;Nhu;03/09/1998;Nu
+SV00041;Phan Thi Xuan;Phuong;21/12/1998;Nu
+SV00042;Nguyen Thi Ngoc;Thach;29/08/1998;Nu
+SV00043;Le Thi Thien;Thanh;10/06/1998;Nu
+SV00044;Nguyen Thi;Thanh;11/01/1998;Nu
+SV00045;Nguyen Thi Phuong;Thao;01/01/1998;Nu
+SV00046;Nguyen Thi;Thoan;18/09/1998;Nu
+SV00047;Doan Thi Nhu;Thuy;22/08/1998;Nu
+SV00048;Le Thi;Thuy;25/11/1998;Nu
+SV00049;Huynh Linh Nhi;Tien;14/03/1998;Nu
+SV00050;Le Ngoc;Tien;17/06/1998;Nam
+SV00051;Truong Quang;Tinh;30/08/1998;Nam
+SV00052;Nguyen Thi Thu;Trang;01/04/1998;Nu
+SV00053;Ho Van;Tri;14/11/1998;Nam
+SV00054;Nguyen Thi;Trong;15/09/1998;Nu
+SV00055;Le Cong;Vinh;16/07/1998;Nam
+SV00056;Le Thi;Xoang;08/06/1997;Nu
+SV00057;Bui Thi Nhu;Y;24/06/1997;Nu
+SV00058;Le Hoang;Nam;22/09/1998;Nam
+SV00059;Nguyen Thi;Quyen;03/02/1998;Nu
+SV00060;Phan Ba;Chuan;03/05/1996;Nam
+SV00061;Phan Thi Ky;Duyen;06/04/1998;Nu
+SV00062;Tran Huu;Dat;03/02/1998;Nam
+SV00063;Thai Le;Ha;11/07/1998;Nu
+SV00064;Nguyen Van;Hieu;14/01/1998;Nam
+SV00065;Le Do;Huy;20/04/1998;Nam
+SV00066;Nguyen Thi Mai;Nhu;29/01/1998;Nu
+SV00067;Lai Thi;No;10/06/1998;Nu
+SV00068;Nguyen Van;Suu;10/02/1998;Nam
+SV00069;Tran Thi Thao;Vy;27/03/1998;Nu
+SV00070;Do Viet;Duc;14/06/1999;Nam
+SV00071;Le Thi Dieu;An;02/04/1998;Nu
+SV00072;Nguyen Tran Minh;Anh;07/01/1998;Nu
+SV00073;Hoang Thi Ngoc;Anh;08/08/1997;Nu
+SV00074;Trinh Ba;Cao;09/02/1997;Nam
+SV00075;Nguyen Manh;Cuong;28/05/1997;Nam
+SV00076;Nguyen Thi Phuong;Dung;01/06/1998;Nu
+SV00077;Nguyen Thuy Khanh;Dung;18/06/1998;Nu
+SV00078;Nguyen Thuy;Hang;23/11/1998;Nu
+SV00079;Le Thi Ngoc;Hien;06/01/1998;Nu
+SV00080;Tran Thi Thu;Hien;13/11/1998;Nu
+SV00081;Nguyen Gia;Hoang;06/08/1998;Nam
+SV00082;Tran Duc;Hoang;20/05/1996;Nam
+SV00083;Tran ai;Khuyen;09/11/1998;Nu
+SV00084;Quach Dieu;Linh;27/08/1998;Nu
+SV00085;Tran Van;Luyen;22/09/1996;Nam
+SV00086;Le Thi Diem;My;14/06/1998;Nu
+SV00087;Ho Thi Le;Na;04/11/1996;Nu
+SV00088;Phan Nguyen Yen;Nhi;22/07/1998;Nu
+SV00089;Ha Nhat;Quang;24/08/1998;Nam
+SV00090;Pham Thi Minh;Tam;26/02/1998;Nu
+SV00091;Tran Thi Thanh;Thuy;24/11/1997;Nu
+SV00092;Hoang Thi Thu;Trang;27/06/1998;Nu
+SV00093;Nguyen Phuoc Minh;Tri;20/06/1998;Nam
+SV00094;Dang Thi Be;Trinh;01/01/1997;Nu
+SV00095;Vo Thi Thanh;Truyen;13/09/1998;Nu
+SV00096;Bui Van;Tuan;22/05/1998;Nam
+SV00097;Tran Quoc;Tuan;18/09/1998;Nam
+SV00098;Nguyen Hoang Tu;Uyen;16/11/1998;Nu
+SV00099;Pham Thi Quynh;Trang;22/06/1998;Nu
+SV00100;Phan Thi Thu;Ha;01/01/1998;Nu
+SV00101;Phan Thi My;Hanh;01/03/1997;Nu
+SV00102;Phan Thao;Nhu;02/02/1998;Nu
+SV00103;La Cao;Quoc;03/03/1998;Nam
+SV00104;Phan Thi Ngoc;Anh;04/04/1998;Nu
+SV00105;Le Ngoc Bao;Ngan;14/04/1998;Nu
+SV00106;Phan Ba;Cam;16/11/1997;Nam
+SV00107;Tran Dang;Cuong;28/06/1998;Nam
+SV00108;Le Thi;Dung;21/03/1998;Nu
+SV00109;Le Van;Dung;18/04/1998;Nam
+SV00110;Le Huynh;Duc;10/10/1998;Nam
+SV00111;Le Thi Thuy;Ha;02/09/1998;Nu
+SV00112;Nguyen Thi;Hoanh;14/11/1998;Nu
+SV00113;Duong Thi;Khen;18/07/1998;Nu
+SV00114;Cao Thi;Lan;05/05/1998;Nu
+SV00115;Chau Vu Thuy;Linh;15/11/1998;Nu
+SV00116;Le Thi Dieu;Linh;29/11/1998;Nu
+SV00117;Bach Thi;Linh;16/09/1997;Nu
+SV00118;KEOMANY;LONG;04/05/1996;Nam
+SV00119;Nguyen Thi Tra;My;27/12/1998;Nu
+SV00120;Phan Van;Ngoc;18/03/1998;Nam
+SV00121;Nguyen Thi Yen;Nhi;30/03/1998;Nu
+SV00122;Vo Thi Phuong;Nhi;29/07/1998;Nu
+SV00123;Van Thi Hong;Nhi;22/11/1998;Nu
+SV00124;Phengsavanh;Nola;30/12/1997;Nu
+SV00125;Phalabay;PHIN;26/08/1996;Nam
+SV00126;Truong Ngoc;Phu;24/03/1998;Nam
+SV00127;Nguyen Trong;Phuc;10/07/1998;Nam
+SV00128;Ho Van;Thuoc;03/04/1998;Nam
+SV00129;Pham Thi Thuy;Trang;28/03/1998;Nu
+SV00130;Dinh Thi Mai;Trinh;04/04/1998;Nu
+SV00131;Vo Thi Diem;Trinh;18/03/1998;Nu
+SV00132;Bui Thi Thanh;Truc;08/03/1998;Nu
+SV00133;Pham Quang;Dan;25/05/1998;Nam
+SV00134;Le Minh;Huy;20/03/1998;Nam
+SV00135;Ngo Thi Thuy;Linh;22/03/1998;Nu
+SV00136;Pham Thi Phuong;Lan;07/01/1998;Nu
+SV00137;Do Thi Hien;Thu;14/09/1998;Nu
+SV00138;Tran Thi Hai;Yen;25/12/1998;Nu
+SV00139;Tran Thi My;Hanh;19/08/1998;Nu
+SV00140;Vu Phuong;Dung;03/09/1999;Nam
+SV00141;Le Thai;Bao;22/09/1998;Nam
+SV00142;Trieu Thi Quynh;Chau;16/10/1998;Nu
+SV00143;Tran Quoc;Cuong;04/01/1998;Nam
+SV00144;Nguyen Thanh;Dat;09/12/1998;Nam
+SV00145;Duong Bao;Han;11/07/1998;Nu
+SV00146;Ngo Thi Thu;Hien;22/05/1997;Nu
+SV00147;Tran Minh;Hieu;23/02/1998;Nam
+SV00148;Che Quang;Huy;21/04/1998;Nam
+SV00149;Nguyen Ba Boi;Huyen;19/06/1998;Nu
+SV00150;Tran Thi Khanh;Huyen;30/11/1998;Nu
+SV00151;Pham Thi;Huong;27/02/1996;Nam
+SV00152;Ho Viet;Khai;08/11/1998;Nam
+SV00153;Vu Thi Kim;Thoa;12/11/1996;Nam
+SV00154;Do Van Hai;Ky;04/10/1998;Nam
+SV00155;Vo Minh;Lai;30/04/1998;Nam
+SV00156;Ho;Luong;09/03/1998;Nam
+SV00157;Hoang Thi;My;17/09/1998;Nu
+SV00158;Truong Viet;My;06/03/1998;Nam
+SV00159;Thai Phuong;Nam;04/04/1998;Nam
+SV00160;Le Thi Nhu;Ngoc;13/12/1997;Nu
+SV00161;Le Huu;Nhan;18/06/1998;Nam
+SV00162;Hoang Quang;Nhat;21/11/1998;Nam
+SV00163;Nguyen Minh;Nhat;02/12/1998;Nam
+SV00164;Doan Thi Thao;Nhu;05/06/1998;Nu
+SV00165;Le Duong Tu;Oanh;10/08/1998;Nu
+SV00166;Bui Cong;Phap;09/06/1998;Nam
+SV00167;Hoang Nguyen Tai;Phuc;20/09/1998;Nam
+SV00168;Nguyen Thi;Phuc;22/09/1998;Nu
+SV00169;Nguyen Lam Kim;Phung;05/03/1998;Nu
+SV00170;Doan Uyen;Phuong;05/02/1998;Nu
+SV00171;Tran Thi Thu;Quynh;03/10/1998;Nu
+SV00172;Nguyen Ngoc;Ron;11/03/1997;Nam
+SV00173;Vo Tran My;Sa;22/04/1998;Nu
+SV00174;Hoang Quang;Manh;10/07/1997;Nu
+SV00175;Hoang Quang;Thach;27/09/1997;Nam
+SV00176;Viengsavanh;Thammanouvong;23/02/1997;Nu
+SV00177;Keokenmany;Thepsombundit;14/04/1998;Nu
+SV00178;Tran Uyen;Thi;16/09/1998;Nu
+SV00179;Hoang Thanh;Tho;27/10/1998;Nam
+SV00180;Nguyen Chanh;Toan;04/01/1996;Nam
+SV00181;Ngo Minh;Tri;25/05/1998;Nam
+SV00182;Phan Cong;Trung;07/11/1998;Nam
+SV00183;Vo Thi Thanh;Tuyen;10/02/1998;Nu
+SV00184;Hoang Thi Bich;Van;05/05/1998;Nu
+SV00185;Nguyen Hoang Thao;Anh;29/09/1998;Nu
+SV00186;Nguyen Nhat;Anh;29/12/1995;Nam
+SV00187;Nguyen Thi Lan;Anh;21/04/1998;Nu
+SV00188;Nguyen Thi Dieu;Dien;19/05/1998;Nu
+SV00189;Le Thi Thuy;Duong;10/09/1998;Nu
+SV00190;Nguyen Hong;Duc;08/07/1998;Nam
+SV00191;Ho Thi Ngoc;Ha;27/08/1997;Nu
+SV00192;Ngo Thi Song;Hao;22/10/1998;Nu
+SV00193;Phan Bao;Khanh;20/01/1998;Nam
+SV00194;Ngo Thi;Lai;20/01/1998;Nu
+SV00195;Tran Thi;Lai;25/10/1998;Nu
+SV00196;Tran Van;Le;10/03/1998;Nam
+SV00197;Duong Thi;Lien;07/01/1997;Nu
+SV00198;Phan Thi Thanh;Lieu;25/11/1998;Nu
+SV00199;Ho Thi My;Linh;20/06/1996;Nu
+SV00200;Ho Thi Nhat;Linh;25/10/1997;Nu
+SV00201;Truong Thi Thuy;Linh;31/12/1998;Nu
+SV00202;Nguyen Thi Hong;My;11/02/1998;Nu
+SV00203;Nguyen Thi;Nam;11/03/1998;Nu
+SV00204;Nguyen Thanh;Ngoc;25/01/1998;Nu
+SV00205;Phung Xuan;Phi;04/02/1998;Nam
+SV00206;Phan Nhat;Quang;20/12/1998;Nam
+SV00207;Nguyen Thi Anh;Quynh;15/02/1997;Nu
+SV00208;Nguyen Thi Thuy;Quynh;28/10/1998;Nu
+SV00209;Ho Thi Thien;Thanh;06/07/1998;Nu
+SV00210;Ho Thi Hong;Thi;20/01/1998;Nu
+SV00211;Nguyen Viet;Thinh;22/06/1998;Nam
+SV00212;Nguyen Thi;Thu;23/06/1998;Nu
+SV00213;Nguyen Thi;Thu;18/10/1998;Nu
+SV00214;Do Thi Ngoc;Thuy;06/08/1992;Nu
+SV00215;Phung Thi Thanh;Thuy;13/09/1998;Nu
+SV00216;Le Thi Bich;Tram;31/03/1998;Nu
+SV00217;Tran Thi Kim;Uyen;07/10/1998;Nu
+SV00218;Nguyen Thi Hai;Van;01/02/1997;Nu
+SV00219;Nguyen Dinh;Vu;15/01/1998;Nam
+SV00220;Ho The Quy;Yen;19/05/1998;Nam
+SV00221;Nguyen Thi Minh;Anh;21/10/1998;Nu
+SV00222;Nguyen Thi Quynh;Anh;03/11/1998;Nu
+SV00223;Nguyen Kim Dinh;Bao;07/08/1998;Nam
+SV00224;Nguyen Thi Thanh;Hang;14/03/1998;Nu
+SV00225;Lam Minh;Hoang;22/01/1998;Nam
+SV00226;Le Thi Thanh;Huyen;08/11/1998;Nu
+SV00227;Le Thi Thanh;Huyen;16/10/1998;Nu
+SV00228;Pham Thi Nhat;Le;12/11/1998;Nu
+SV00229;Nguyen Doan Khanh;Linh;22/11/1998;Nu
+SV00230;Ha Thi Ai;My;11/05/1997;Nu
+SV00231;Nguyen Thi;My;16/10/1997;Nu
+SV00232;Nguyen Truong;Nam;02/10/1998;Nam
+SV00233;Ngo Hong;Nhat;25/02/1998;Nam
+SV00234;To Thi Yen;Nhi;16/11/1998;Nu
+SV00235;Pham Thi Hoai;Nin;02/01/1998;Nu
+SV00236;Nguyen Thi Kieu;Oanh;15/05/1997;Nu
+SV00237;Phan Thi Ngoc;Oanh;06/02/1998;Nu
+SV00238;Ha Viet;Phuong;07/08/1998;Nam
+SV00239;Le Thi Thanh;Quy;01/05/1998;Nu
+SV00240;Vo Van;Thang;17/02/1998;Nam
+SV00241;Hoang Minh;Thong;31/07/1998;Nam
+SV00242;Phan Thi My;Thuan;15/07/1997;Nu
+SV00243;Pham Thi Thu;Thuy;01/07/1998;Nu
+SV00244;Huynh Thi Minh;Thu;12/07/1998;Nu
+SV00245;Tran Thi Kieu;Tien;17/03/1998;Nu
+SV00246;Le Thi Hoai;Trang;21/12/1998;Nu
+SV00247;Mai Huyen;Trang;04/11/1998;Nu
+SV00248;Nguyen Ba Anh;Tuan;22/08/1997;Nam
+SV00249;Truong Thi;Vinh;24/07/1998;Nu
+SV00250;Vo;Vu;29/09/1998;Nam
+SV00251;Le Dac Tuan;Huy;09/12/1998;Nam
+SV00252;Le Thi;Oanh;27/08/1998;Nu
+SV00253;Truong Xuan;Quan;07/05/1998;Nam
+SV00254;Huynh Thi Thu;Thanh;07/12/1998;Nu
+SV00255;Nguyen Dac;Thanh;31/12/1998;Nam
+SV00256;Duong Thi Tuong;An;22/09/1998;Nu
+SV00257;Le Thi Ngoc;Bao;26/04/1998;Nu
+SV00258;Nguyen Bich;Diep;21/05/1998;Nu
+SV00259;Le Thi Thanh;Dung;02/12/1998;Nu
+SV00260;Nguyen Thi Kim;Duyen;05/01/1998;Nu
+SV00261;Nguyen Thi Thu;Ha;08/11/1997;Nu
+SV00262;Tran Thi;Hang;27/11/1998;Nu
+SV00263;Nguyen Quy;Hoai;20/09/1998;Nu
+SV00264;Le Thi;Hue;10/02/1998;Nu
+SV00265;Nguyen Van;Hung;22/07/1998;Nam
+SV00266;Ho Thi Van;Khanh;06/10/1998;Nu
+SV00267;Doan Anh;Kiet;20/11/1998;Nam
+SV00268;Bui Tuyet;Linh;27/12/1998;Nu
+SV00269;Nguyen Thi Ngoc;Linh;10/01/1998;Nu
+SV00270;Tran Xuan Phuoc;Loc;15/10/1998;Nam
+SV00271;Tran Thi Phuong;Ly;01/05/1998;Nu
+SV00272;Le Tuan;Minh;29/03/1998;Nam
+SV00273;Ngo Ngoc Thi Thuy;My;05/10/1998;Nu
+SV00274;Tran Nhu;Nam;03/01/1998;Nam
+SV00275;Nguyen Thi Kim;Ngan;19/01/1998;Nu
+SV00276;Tran Ho An;Ngoc;03/11/1998;Nu
+SV00277;Dang Duy;Nhat;30/07/1997;Nam
+SV00278;Le Thi Yen;Nhi;18/09/1997;Nu
+SV00279;Nguyen Thi;Nhi;02/11/1996;Nu
+SV00280;Nguyen Ngoc;Phu;02/10/1998;Nam
+SV00281;Ho Thi Ngoc;Phuong;02/01/1998;Nu
+SV00282;Truong Thi;Quynh;07/06/1998;Nu
+SV00283;Nguyen Hoang;Son;14/01/1997;Nam
+SV00284;Vo Thi;Thuy;21/10/1998;Nu
+SV00285;Nguyen Thi;Thuong;26/10/1998;Nu
+SV00286;Ngo Thi Bao;Tram;17/10/1998;Nu
+SV00287;Doan Thi Viet;Trinh;02/11/1997;Nu
+SV00288;Dang Van;Tu;17/08/1998;Nam
+SV00289;Vo Thi Thu;Van;06/01/1998;Nu
+SV00290;Le Thuy;Vy;04/07/1998;Nu
+SV00291;Ngo Thi Hoang;Yen;27/06/1998;Nu
+SV00292;Nguyen Boi;Chan;08/05/1998;Nu
+SV00293;Nguyen Thi;Thuy;05/05/1998;Nu
+SV00294;Dang Ngoc;An;14/03/1997;Nam
+SV00295;Nguyen Duc Tien;Anh;02/01/1998;Nam
+SV00296;Tran Duy Nguyen;Anh;17/12/1998;Nu
+SV00297;Dang Thi Kim;Chi;14/04/1998;Nu
+SV00298;Dang Thi Cam;Dung;18/09/1998;Nu
+SV00299;Truong Thi Tuyet;Dung;13/03/1998;Nu
+SV00300;Le Thi Hong;Dao;11/01/1998;Nu
+SV00301;Le Thi Quynh;Giao;15/04/1998;Nu
+SV00302;Le Thi My;Hanh;07/02/1997;Nu
+SV00303;Phan Thi Le;Hang;18/09/1998;Nu
+SV00304;Tran Thi Dieu;Hien;04/04/1998;Nu
+SV00305;Bui Duy Trong;Hoang;14/09/1998;Nam
+SV00306;Truong Thi Thanh;Hue;23/10/1998;Nu
+SV00307;Le Van;Hung;01/01/1998;Nam
+SV00308;Nguyen Thi;Huyen;10/08/1997;Nu
+SV00309;Tran Thi;Huong;01/08/1997;Nu
+SV00310;Lai Phuoc;Khanh;10/10/1996;Nu
+SV00311;Ar Va;La;15/04/1997;Nu
+SV00312;Le Phan Thi;Lan;23/10/1998;Nu
+SV00313;Phan Thi;Len;28/10/1998;Nu
+SV00314;Le Thi My;Le;30/08/1998;Nu
+SV00315;Tran Doan Hai;Lien;11/07/1998;Nu
+SV00316;Lam Nu Hoang;Linh;20/07/1998;Nu
+SV00317;Ngo Nu Phuoc;Linh;25/08/1998;Nu
+SV00318;Tran Thi Thuy;Linh;03/09/1998;Nu
+SV00319;Bui Thi Kim;Loan;20/11/1998;Nu
+SV00320;Le Thi Hoai;Ly;04/11/1998;Nu
+SV00321;Tran Hieu Ngoc;Man;12/12/1998;Nu
+SV00322;Le Thi;Nga;29/09/1998;Nu
+SV00323;Tran Thi Phuong;Nga;14/03/1998;Nu
+SV00324;Nguyen Trong;Nghia;12/05/1998;Nam
+SV00325;Le Thi Bich;Ngoc;06/02/1998;Nu
+SV00326;Le Si;Nhan;26/04/1996;Nam
+SV00327;Phan Thi Quynh;Nhi;01/02/1998;Nu
+SV00328;Truong Thi Kieu;Nhi;21/06/1998;Nu
+SV00329;Vo Thi Cam;Nhung;03/12/1998;Nu
+SV00330;Tran Thi Quynh;Nhu;22/01/1998;Nu
+SV00331;Nguyen Thi;Nuong;15/02/1998;Nu
+SV00332;Phan Tu;Oanh;16/11/1997;Nu
+SV00333;Ngo Thi;Phuong;06/12/1997;Nu
+SV00334;Tran Thi Diem;Phuong;20/03/1996;Nu
+SV00335;Huyen Ton Nu Ha;Quyen;13/04/1998;Nu
+SV00336;Ho Nhu;Quynh;18/12/1998;Nu
+SV00337;Le Thi Thuy;Quynh;05/08/1998;Nu
+SV00338;Le Khanh;Son;16/08/1998;Nam
+SV00339;Nguyen Thi Thanh;Tam;01/01/1998;Nu
+SV00340;Doan Thi Thu;Thanh;20/05/1998;Nu
+SV00341;Ho Thi Phuong;Thao;26/03/1998;Nu
+SV00342;Vo Thi Dieu;Thien;18/11/1998;Nu
+SV00343;Le Thi Nhu;Thuy;23/09/1998;Nu
+SV00344;Tran Thi Bich;Thuy;30/12/1998;Nu
+SV00345;Ngo Thi;Trang;18/06/1998;Nu
+SV00346;Nguyen Thi Thuy;Trinh;22/07/1998;Nu
+SV00347;Nguyen Thi Cam;Tu;11/04/1998;Nu
+SV00348;Phan Thi Thanh;Tuyen;22/06/1998;Nu
+SV00349;Pham Binh;Ty;19/05/1998;Nam
+SV00350;Nguyen Phuc Bao;Vy;12/05/1998;Nu
+SV00351;Nguyen Thi;Yen;26/08/1998;Nu
+SV00352;Hoang Duc;Anh;05/05/1997;Nam
+SV00353;Tran Thi Kim;Anh;05/05/1998;Nu
+SV00354;Nguyen Ngoc;Anh;12/11/1998;Nu
+SV00355;Nguyen Thi Phuong;Bac;18/09/1998;Nu
+SV00356;Nguyen Thi Ngoc;Cam;10/08/1998;Nu
+SV00357;Ho Thanh;Chu;13/01/1998;Nam
+SV00358;Tran Xuan;Dung;23/04/1997;Nam
+SV00359;Nguyen Tien;Dat;24/06/1998;Nam
+SV00360;Cao Thi Hong;Gam;25/11/1998;Nu
+SV00361;Ngo Thi;Ha;21/08/1997;Nu
+SV00362;Tran Thi My;Hao;02/10/1998;Nu
+SV00363;Nguyen Thi Thu;Hang;04/09/1998;Nu
+SV00364;Nguyen Van;Hieu;23/08/1998;Nam
+SV00365;Phan Nguyen Minh;Hoang;22/02/1998;Nam
+SV00366;Tran Thi Bich;Hop;20/04/1998;Nu
+SV00367;Ton Nu Ngoc;Huyen;23/04/1998;Nu
+SV00368;Nguyen Trung;Kien;04/08/1998;Nam
+SV00369;Nguyen Thi;Le;06/04/1998;Nu
+SV00370;Tran Thi My;Linh;07/12/1998;Nu
+SV00371;Vo Thi Nhat;Linh;23/08/1998;Nu
+SV00372;Tran Hoang;Long;11/07/1998;Nam
+SV00373;Ngo Thi Kim;Ly;03/11/1998;Nu
+SV00374;Nguyen Tra;My;11/03/1998;Nu
+SV00375;Duong Thi Hong;Nam;12/01/1997;Nu
+SV00376;Nguyen Thi Bao;Ngan;09/09/1997;Nu
+SV00377;Nguyen Thi Hong;Ngoc;13/05/1998;Nu
+SV00378;Nguyen Viet Cam;Nguyen;11/11/1998;Nu
+SV00379;Nguyen Thi y;Nhi;22/04/1998;Nu
+SV00380;Nguyen Thi Thao;Nhu;01/02/1998;Nu
+SV00381;Ly Hoai;Phu;01/06/1998;Nam
+SV00382;Truong Thi Ha;Phuong;06/09/1998;Nu
+SV00383;Le Ngoc;Qui;30/09/1998;Nam
+SV00384;Phan Hong;Son;19/05/1998;Nam
+SV00385;Nguyen Dang;Tam;17/12/1998;Nam
+SV00386;Le Thi Thu;Thao;11/07/1998;Nu
+SV00387;Pham Thi Diem;Thi;24/04/1998;Nu
+SV00388;Truong Dinh;Thong;08/10/1998;Nam
+SV00389;Nguyen Thi;Thuy;12/04/1998;Nu
+SV00390;Le Thi Thanh;Thuy;13/07/1996;Nu
+SV00391;Nguyen Thi;Tinh;08/08/1997;Nu
+SV00392;Phan Thanh;Toan;03/10/1998;Nam
+SV00393;Tran Thi Quynh;Trang;12/10/1998;Nu
+SV00394;Tran Thi Dieu;Tuyen;27/04/1998;Nu
+SV00395;Pham Thi Thanh;Van;25/08/1998;Nu
+SV00396;Pham Thi Hai;Yen;10/07/1998;Nu
+SV00397;Mai Thi My;Anh;23/09/1998;Nu
+SV00398;Nguyen Thi Lan;Anh;10/08/1998;Nu
+SV00399;Nguyen Le Ngoc;Chau;02/11/1998;Nu
+SV00400;Le Thi Kim;Chi;08/11/1997;Nu
+SV00401;Le Phuoc Hoai;Diem;26/02/1998;Nu
+SV00402;Tran Thi Thuy;Dung;13/08/1998;Nu
+SV00403;Nguyen Dang Thuy;Duong;06/11/1998;Nu
+SV00404;Nguyen Dinh Minh;Duc;18/05/1998;Nam
+SV00405;Ton Thi Ha;Giang;26/06/1998;Nu
+SV00406;Nguyen Hoang Thanh;Hao;04/11/1997;Nu
+SV00407;Lu Thi Bao;Han;31/12/1998;Nu
+SV00408;Truong Nu Minh;Huong;30/05/1998;Nu
+SV00409;Nguyen Le Anh;Khoa;04/04/1998;Nam
+SV00410;Hoang Thi;Le;10/02/1998;Nu
+SV00411;Nguyen Thi Ngoc;Linh;01/01/1997;Nu
+SV00412;Tran Thi Khanh;Linh;09/09/1998;Nu
+SV00413;Luong The;Long;06/05/1998;Nam
+SV00414;Hoang Thi Kieu;My;21/04/1998;Nu
+SV00415;Nguyen Chau Quang;Nhat;03/06/1998;Nam
+SV00416;Ho Thi Kieu;Nhi;19/07/1998;Nu
+SV00417;Nguyen Phuong;Nhi;27/04/1998;Nu
+SV00418;Doan Thi Hong;Nhung;10/08/1998;Nu
+SV00419;Nguyen Tan;Phat;25/02/1998;Nam
+SV00420;Do Thi Thanh;Phuong;25/12/1997;Nu
+SV00421;Le Thi;Phuong;13/07/1998;Nu
+SV00422;Tran Phuong;Phuong;09/05/1998;Nu
+SV00423;Nguyen Si;Quan;24/05/1998;Nam
+SV00424;Ton That Gia;Quy;27/03/1998;Nam
+SV00425;Le Nhat;Quynh;05/11/1998;Nu
+SV00426;Le Nguyen Giang;Thanh;24/09/1998;Nu
+SV00427;Le Thi;Thao;06/09/1998;Nu
+SV00428;Nguyen Thi Thu;Thao;24/04/1998;Nu
+SV00429;Truong Thi Da;Thao;18/08/1998;Nu
+SV00430;Ho Dang Duc;Thien;07/01/1998;Nam
+SV00431;Nguyen Thi;Thu;11/06/1997;Nu
+SV00432;Phan Thi;Thuy;25/09/1998;Nu
+SV00433;Tran Thi Anh;Thu;01/01/1997;Nu
+SV00434;Truong Thi Thuy;Trang;11/08/1998;Nu
+SV00435;Nguyen Hoang Phuong;Trinh;14/10/1998;Nu
+SV00436;Ho Thi Cam;Tu;06/12/1996;Nu
+SV00437;Nguyen Thao;Uyen;28/08/1998;Nu
+SV00438;Nguyen To;Uyen;18/12/1996;Nu
+SV00439;Nguyen Thi Hong;Van;02/11/1998;Nu
+SV00440;Truong Cong;Vi;20/02/1998;Nam
+SV00441;Hoang Thi Nhu;Y;01/11/1998;Nu
+SV00442;Hoang Nhu;An;16/04/1998;Nam
+SV00443;Cao Thi My;Lan;09/07/1998;Nu
+SV00444;Nguyen Thi Thu;Uyen;05/11/1998;Nu
+SV00445;Vo Thi Bich;Van;21/09/1998;Nu
+SV00446;Ho Thi Kim;Anh;27/02/1998;Nu
+SV00447;Vo Van;Bay;06/02/1995;Nam
+SV00448;Truong Ton ai;Chi;25/11/1998;Nu
+SV00449;Nguyen Ngoc;Duy;17/03/1996;Nam
+SV00450;Nguyen Quang Thanh;Dat;06/02/1998;Nam
+SV00451;Chau Thi Thu;Ha;16/02/1998;Nu
+SV00452;Le Thi Hong;Han;15/06/1998;Nu
+SV00453;Nguyen Quang;Huy;31/07/1998;Nam
+SV00454;Nguyen Thi Mai;Huong;22/09/1998;Nu
+SV00455;Nguyen Van;Huong;24/01/1998;Nam
+SV00456;Hoang Van;Khanh;25/08/1998;Nam
+SV00457;Le Thi;Lan;12/10/1997;Nu
+SV00458;Le Khanh;Linh;14/03/1998;Nu
+SV00459;Tran Thi Dieu;Linh;24/02/1998;Nu
+SV00460;Nguyen Cong;Linh;02/03/1998;Nam
+SV00461;Nguyen Duc Bao;Long;19/12/1998;Nam
+SV00462;Truong Thi Thao;Ly;07/07/1998;Nu
+SV00463;Hoang Thi Thanh;Mai;02/08/1996;Nu
+SV00464;Nguyen Thi;Minh;21/08/1998;Nu
+SV00465;Pham Cong;Minh;10/04/1998;Nam
+SV00466;Phan Thi Be;My;05/03/1998;Nu
+SV00467;Vo Thi Tra;My;06/12/1997;Nu
+SV00468;Nguyen Thi;Na;20/02/1998;Nu
+SV00469;Nguyen Dien;Nam;05/04/1997;Nam
+SV00470;Chau Thi Hao;Ngan;27/08/1998;Nu
+SV00471;Le Thi Bich;Ngoc;02/01/1997;Nu
+SV00472;Nguyen Thi Hong;Ngoc;01/09/1998;Nu
+SV00473;Nguyen Binh Quynh;Nguyen;03/02/1998;Nu
+SV00474;Hoang Thi Tuyet;Nhung;27/08/1998;Nu
+SV00475;Bui Thien;Oanh;28/03/1998;Nu
+SV00476;Tran Quang;Phu;24/04/1998;Nam
+SV00477;Vo Dien;Phuong;20/02/1996;Nam
+SV00478;Le Tien;Quoc;05/05/1998;Nam
+SV00479;Le Ngan;Quynh;10/01/1998;Nu
+SV00480;Nguyen Van;Su;28/02/1998;Nam
+SV00481;Hoang Thi Thanh;Tam;27/02/1998;Nu
+SV00482;Le Thi Ngoc;Thanh;25/03/1998;Nu
+SV00483;Bach Thi;Thao;24/05/1996;Nu
+SV00484;Huynh Thi Phuong;Thao;18/03/1997;Nu
+SV00485;Tran Hong;Tham;10/12/1998;Nu
+SV00486;Tran Anh;Thoa;16/01/1998;Nu
+SV00487;Tran Thi Bich;Thuy;01/05/1998;Nu
+SV00488;Ho Van;Thuc;01/01/1998;Nam
+SV00489;Le Ngoc;Trung;13/07/1998;Nam
+SV00490;Cao Ky;Uyen;23/04/1998;Nu
+SV00491;Tran Van Quang;Vinh;29/07/1998;Nam
+SV00492;Nguyen Thi Tuong;Vy;03/09/1998;Nu
+SV00493;Le Thi Ky;Duyen;03/11/1998;Nu
+SV00494;Bui Thi;An;10/05/1998;Nu
+SV00495;Hoang Minh;Cuong;06/10/1997;Nam
+SV00496;Dang Thi;Dung;02/09/1998;Nu
+SV00497;Nguyen Ngoc;Hung;21/01/1998;Nam
+SV00498;Le Thi Nhat;Linh;06/08/1998;Nu
+SV00499;Nguyen Thi Thanh;Loan;16/03/1997;Nu
+SV00500;Nguyen Thi Tam;An;11/08/1998;Nu
+SV00501;Le Quynh;Anh;10/07/1998;Nu
+SV00502;Nguyen Thi;Bap;23/01/1998;Nu
+SV00503;Truong Nu Minh;Chau;13/08/1998;Nu
+SV00504;Nguyen Thi;Dien;19/07/1998;Nu
+SV00505;Nguyen Tien;Dat;10/01/1998;Nam
+SV00506;Nguyen Huu;Duc;14/07/1998;Nam
+SV00507;Tran Thi;Ha;26/05/1998;Nu
+SV00508;Phan Thi Hong;Hanh;22/10/1998;Nu
+SV00509;Phan Thi Thu;Hien;20/01/1998;Nu
+SV00510;Nguyen Thi Thanh;Hoa;01/02/1998;Nu
+SV00511;Tran Huu Quoc;Huy;13/05/1998;Nam
+SV00512;Vo Thi Nhu;Huyen;25/07/1998;Nu
+SV00513;Nguyen Thi Lan;Huong;02/01/1998;Nu
+SV00514;Huynh Thi Hong;Loan;26/01/1998;Nu
+SV00515;Bach Thi To;Nga;16/11/1998;Nu
+SV00516;Hoang Thi Quynh;Nhi;09/09/1998;Nu
+SV00517;Do Thi Thuy;Nhien;16/08/1997;Nu
+SV00518;Huyen Ton Nu Tu;Phuong;31/08/1998;Nu
+SV00519;Dinh Vo Vinh;Quang;29/10/1998;Nam
+SV00520;Tran Thanh;Quoc;06/01/1996;Nam
+SV00521;Bui Thi;Quy;01/01/1998;Nu
+SV00522;Le Tuan;Sang;20/01/1998;Nam
+SV00523;Nguyen Viet;Tai;24/07/1998;Nam
+SV00524;Nguyen Thi Thanh;Tam;28/11/1998;Nu
+SV00525;Nguyen Thi;Thao;02/02/1998;Nu
+SV00526;Huynh Ngoc;Thien;20/02/1998;Nam
+SV00527;Vo Thi Bich;Thuy;30/08/1997;Nu
+SV00528;Doan Thi;Trang;12/08/1998;Nu
+SV00529;Tran Thi Thuy;Tram;06/11/1998;Nu
+SV00530;Nguyen Thi Thuy;Trinh;23/08/1998;Nu
+SV00531;Vo Anh;Tuan;16/09/1997;Nam
+SV00532;Nguyen Thi;Tuyen;01/06/1998;Nu
+SV00533;Ho Thi;Tuyet;12/06/1998;Nu
+SV00534;Nguyen The;Vinh;22/12/1994;Nam
+SV00535;Nguyen Thi Thuy;Vy;25/08/1998;Nu
+SV00536;Pham Thi Thanh;Xuan;10/01/1998;Nu
+SV00537;Nguyen Thi Kim;Lien;09/10/1998;Nu
+SV00538;Le Ngoc;Tiep;26/05/1998;Nam
+SV00539;Truong Thi Ngoc;Dieu;05/06/1998;Nu
+SV00540;Do Thi Bich;Phi;22/07/1998;Nu
+SV00541;Ho Thi Van;Anh;26/01/1998;Nu
+SV00542;Truong Nguyen My;Anh;10/02/1997;Nu
+SV00543;Nguyen Gia;Bao;27/06/1998;Nam
+SV00544;Tran Thi Kim;Chung;18/11/1997;Nu
+SV00545;Nguyen Phu;Cuong;14/11/1997;Nam
+SV00546;Tran Thi;Duyen;01/10/1998;Nu
+SV00547;Le Thi Thuy;Duong;21/08/1997;Nu
+SV00548;Bui Van;Dat;30/07/1998;Nam
+SV00549;Dang Nguyen;Duc;05/01/1998;Nam
+SV00550;Pham Thi Tra;Giang;10/10/1998;Nu
+SV00551;Nguyen Thi Thien;Hao;29/12/1998;Nu
+SV00552;Nguyen Hao Dieu;Hien;21/07/1998;Nu
+SV00553;Le Thi;Hong;22/04/1998;Nu
+SV00554;Dang Duy;Hung;06/11/1998;Nam
+SV00555;Le Dang Xuan;Huy;20/03/1998;Nam
+SV00556;Nguyen Thi Van;Huong;28/04/1998;Nu
+SV00557;Nguyen Duc Duy;Khanh;11/09/1998;Nam
+SV00558;Ho Thi anh;Kieu;05/11/1998;Nu
+SV00559;Hoang Thien;Nhan;02/11/1998;Nam
+SV00560;Tran Dang;Nho;12/10/1998;Nam
+SV00561;Vo Thi;Oanh;15/04/1997;Nu
+SV00562;Hoang Phuoc Hoai;Phuong;09/01/1998;Nam
+SV00563;Le Thi;Suong;05/06/1998;Nu
+SV00564;Bui Thi;Tam;02/02/1998;Nu
+SV00565;Le Dinh;Thai;13/09/1998;Nam
+SV00566;Tran Thi Thanh;Thanh;20/04/1998;Nu
+SV00567;Tran Thi Phuong;Thao;05/05/1998;Nu
+SV00568;Nguyen Thai;Thang;11/02/1997;Nam
+SV00569;Tran Thi;Thoang;22/02/1998;Nu
+SV00570;Nguyen Thi Hoai;Thuong;21/09/1997;Nu
+SV00571;Le Thi Huong;Tra;06/07/1998;Nu
+SV00572;Nguyen Thi anh;Trang;02/03/1998;Nu
+SV00573;Nguyen Thi Khanh;Tran;06/12/1998;Nu
+SV00574;Doan Minh;Tri;08/01/1998;Nam
+SV00575;Ho Ngoc;Trinh;22/03/1997;Nam
+SV00576;Nguyen Ba;Tung;19/08/1998;Nam
+SV00577;Nguyen Thi Hong;Van;26/06/1998;Nu
+SV00578;Ho Van;Vinh;29/05/1998;Nam
+SV00579;Nguyen Thi Lap;Xuan;04/02/1997;Nu
+SV00580;Tran Thi My;Hanh;20/06/1998;Nu
+SV00581;Nguyen Thi;Nhi;27/01/1998;Nu
+SV00582;Dang Thi;Phuong;16/11/1998;Nu
+SV00583;Nguyen Thi;Quyen;25/08/1998;Nu
+SV00584;Nguyen Viet;Tuong;04/09/1998;Nam
+SV00585;Thai Thi Ngoc;An;31/07/1998;Nu
+SV00586;Mai Nguyen Hoang;Anh;13/11/1993;Nu
+SV00587;Ho Thi Hong;An;24/05/1998;Nu
+SV00588;Phan Doan Thai;Bao;30/09/1998;Nam
+SV00589;Pham Ba;Cung;14/06/1998;Nam
+SV00590;Tran Thi My;Dung;09/04/1996;Nu
+SV00591;Le Hoai;Giang;07/11/1998;Nu
+SV00592;Pham Huu Minh;Hieu;25/01/1998;Nam
+SV00593;Mai Chinh;Hoang;12/04/1998;Nam
+SV00594;Thai Thi Thu;Hon;13/11/1998;Nu
+SV00595;Ngo Duc;Hung;17/11/1997;Nam
+SV00596;Hoang Dang;Khoa;15/09/1997;Nam
+SV00597;Nguyen Pham Mai;Linh;20/06/1998;Nu
+SV00598;Hoang Thi Phuong;Loan;11/07/1997;Nu
+SV00599;Le Khanh;Ly;01/04/1995;Nu
+SV00600;Hong Ngoc;Minh;10/05/1998;Nu
+SV00601;Huynh Thi;Ngan;04/08/1997;Nu
+SV00602;Hoang Thi Huynh;Nhi;13/09/1998;Nu
+SV00603;Vo Thi Kieu;Oanh;27/05/1997;Nu
+SV00604;Le Hong;Phong;24/07/1998;Nam
+SV00605;Trinh Thi Viet;Phuong;04/04/1998;Nu
+SV00606;Nguyen Thi;Suong;23/09/1998;Nu
+SV00607;Tran Dinh;Thanh;02/08/1998;Nam
+SV00608;Nguyen Thi Anh;Tho;10/02/1998;Nu
+SV00609;Nguyen Thi Thu;Thuy;11/08/1998;Nu
+SV00610;Bui Thi;Thuy;20/07/1998;Nu
+SV00611;Bui Phuoc;Tien;11/05/1998;Nam
+SV00612;Pham Thi Thuy;Trang;16/08/1998;Nu
+SV00613;Le Thi Ngoc;Tram;01/10/1998;Nu
+SV00614;Nguyen Thi Cuu;Trinh;11/05/1997;Nu
+SV00615;Bui Quang;Trung;24/12/1998;Nam
+SV00616;Le Dinh Nhat;Truong;29/09/1998;Nam
+SV00617;Vo Thi;Ty;25/04/1998;Nu
+SV00618;Ton That Hai;Vuong;19/04/1998;Nam
+SV00619;Pham Thi Dieu;Hang;22/02/1998;Nu
+SV00620;Tran Ngoc;Qui;05/09/1998;Nu
+SV00621;Phan Thi;Tam;10/01/1998;Nu
+SV00622;Phan Lam;Kien;26/09/1998;Nam
+SV00623;Le Dinh Thao;Anh;02/01/1998;Nu
+SV00624;Nguyen Thi Van;Anh;13/08/1998;Nu
+SV00625;Truong Thi Tinh;Anh;28/03/1998;Nu
+SV00626;Nguyen Thi;Binh;02/09/1998;Nu
+SV00627;Nguyen Hoang Bao;Chau;01/08/1998;Nu
+SV00628;Nguyen Viet;Dung;16/01/1996;Nam
+SV00629;Phan Huu;Hanh;10/02/1997;Nam
+SV00630;Nguyen Thi;Hat;24/04/1998;Nu
+SV00631;Hoang Thi Thuy;Hang;27/04/1998;Nu
+SV00632;Duong Trung;Hieu;13/02/1998;Nam
+SV00633;Nguyen Thi Thai;Hoa;12/07/1998;Nu
+SV00634;Nguyen Sy;Hung;10/01/1998;Nam
+SV00635;Le Thanh;Huyen;16/08/1998;Nu
+SV00636;Tran Thi Ngoc;Huyen;28/07/1997;Nu
+SV00637;Doan Thi Tien;Huong;02/07/1998;Nu
+SV00638;Hoang Phuoc;Khoi;02/11/1998;Nam
+SV00639;Nguyen Thi Thuy;Kieu;30/01/1998;Nu
+SV00640;Duong Thi;Le;22/05/1998;Nu
+SV00641;Hoang Ngoc Khanh;Linh;07/09/1998;Nu
+SV00642;Ho Thi Khanh;Linh;15/07/1998;Nu
+SV00643;Phan Thi Tuyet;Linh;12/11/1998;Nu
+SV00644;Nguyen Thi Thao;Ly;11/08/1998;Nu
+SV00645;Nguyen Thi;My;10/08/1997;Nu
+SV00646;Trinh Mai Thanh;Nam;06/12/1997;Nam
+SV00647;Nguyen Thi Hong;Ngoc;13/06/1998;Nu
+SV00648;Le Nguyen Tieu;Nha;24/04/1998;Nu
+SV00649;Nguyen Duc Minh;Nhat;12/05/1998;Nam
+SV00650;Nguyen Ngoc Yen;Nhi;29/09/1998;Nu
+SV00651;Phan Thi Tuyet;Nhi;25/04/1998;Nu
+SV00652;Tran Thi Phuong;Nhi;02/12/1998;Nu
+SV00653;Nguyen Thi Thuy;Nhung;01/06/1997;Nu
+SV00654;Nguyen Le Quynh;Nhu;13/03/1998;Nu
+SV00655;Chau Minh;Quang;27/09/1998;Nam
+SV00656;Nguyen Thi Nhu;Quynh;28/02/1998;Nu
+SV00657;Hoang Thi Mai;Suong;07/07/1998;Nu
+SV00658;Le Thi Thu;Suong;09/01/1998;Nu
+SV00659;Le Thi Hoai;Tan;27/06/1998;Nu
+SV00660;Ho Van;Thanh;28/12/1997;Nam
+SV00661;Le Minh;Thanh;24/07/1998;Nam
+SV00662;Dinh Thi Phuong;Thao;09/07/1998;Nu
+SV00663;Nguyen Thi Thanh;Thao;16/08/1998;Nu
+SV00664;Vo Khanh;Toan;22/02/1998;Nam
+SV00665;Mai Thi Thuy;Trang;26/05/1998;Nu
+SV00666;Nguyen Vo Nha;Tran;28/03/1998;Nu
+SV00667;Phan Cong;Truc;03/02/1998;Nam
+SV00668;Tran Thi Viet;Van;26/08/1998;Nu
+SV00669;Duong Nu Hanh;Yen;08/12/1998;Nu
+SV00670;Le Cat;Duong;30/09/1998;Nam
+SV00671;Le Thi;Giang;25/06/1998;Nu
+SV00672;Nguyen Thi Thu;Thuy;09/01/1998;Nu
+SV00673;Phan Van;An;07/04/1998;Nam
+SV00674;Doan Thi Kim;Anh;06/01/1998;Nu
+SV00675;Le Thi Tam;Anh;01/11/1998;Nu
+SV00676;Tran Phuong;Anh;24/07/1997;Nu
+SV00677;Le Quang;Binh;12/04/1998;Nam
+SV00678;Tran Ngoc Quynh;Chi;10/06/1998;Nu
+SV00679;Nguyen Thang;Cuong;07/10/1998;Nam
+SV00680;Nguyen Van;Dung;17/03/1997;Nam
+SV00681;Nguyen Nhat Linh;Dan;14/07/1998;Nu
+SV00682;Le Quoc;Do;20/11/1996;Nam
+SV00683;Nguyen Vinh;Duc;15/06/1998;Nam
+SV00684;Bui Truong;Giang;01/05/1997;Nam
+SV00685;Nguyen Minh;Hai;02/10/1996;Nam
+SV00686;Ho Thi;Hanh;16/12/1998;Nu
+SV00687;Le Thi Thuy;Hang;20/11/1998;Nu
+SV00688;Tran Luong;Hieu;12/06/1998;Nam
+SV00689;Le Thi My;Hoa;19/04/1997;Nu
+SV00690;Ton That Thien;Hoa;25/11/1998;Nam
+SV00691;Nguyen Van;Hung;19/01/1998;Nam
+SV00692;Nguyen Thu;Huyen;02/03/1998;Nu
+SV00693;Phan Thi Quynh;Huong;12/02/1998;Nu
+SV00694;Pham Thi Yen;Khuyen;08/11/1998;Nu
+SV00695;Tran Thi Xuan;Lan;21/12/1998;Nu
+SV00696;Phan Thi Dieu;Lanh;11/09/1998;Nu
+SV00697;Nguyen Van;Liem;27/05/1997;Nam
+SV00698;Nguyen Nhat;Linh;17/10/1998;Nu
+SV00699;Nguyen Quoc;Manh;01/04/1998;Nam
+SV00700;Cong Huyen Ton Nu Dieu;My;19/09/1998;Nu
+SV00701;Hoang Thi Ly;Na;20/11/1998;Nu
+SV00702;Tran Thi;Nga;15/07/1998;Nu
+SV00703;Dang Nguyen Kim;Ngan;21/02/1998;Nu
+SV00704;Truong Duc;Nghia;19/11/1998;Nam
+SV00705;Le Ngoc Thanh;Nhan;18/11/1998;Nam
+SV00706;Tran Minh;Nhat;06/11/1998;Nam
+SV00707;Le Duc;Nhuan;14/10/1998;Nam
+SV00708;Bui Thi;Nin;05/12/1997;Nu
+SV00709;Dang Van;Phi;02/11/1997;Nam
+SV00710;Nguyen Nghia Son;Phu;20/03/1998;Nam
+SV00711;Tran Quang;Phuoc;03/03/1997;Nam
+SV00712;Phan Thi;Phuong;20/10/1998;Nu
+SV00713;Pham Nguyen Ha;Quang;22/01/1998;Nam
+SV00714;Tran Ngoc;Quang;15/11/1998;Nam
+SV00715;Truong Thanh;Sang;28/08/1998;Nam
+SV00716;Dinh Thi Nhu;Suong;18/10/1998;Nu
+SV00717;Nguyen Huu;Tai;30/09/1998;Nam
+SV00718;Tran Van Minh;Thanh;05/11/1998;Nam
+SV00719;Nguyen Huu;Thang;23/09/1998;Nam
+SV00720;Vo Cao;Thien;28/10/1997;Nam
+SV00721;Ho Thi;Thuy;27/07/1998;Nu
+SV00722;Tran Thi Hoang;Thu;08/06/1998;Nu
+SV00723;Dang Thi;Trang;07/04/1996;Nu
+SV00724;Mai Thi Thuy;Trang;27/12/1998;Nu
+SV00725;Nguyen Thi Hong;Trinh;15/05/1998;Nu
+SV00726;Ton That;Tung;30/03/1998;Nam
+SV00727;Nguyen Danh;Tuyen;28/09/1998;Nam
+SV00728;Ho Thuy;Uyen;18/06/1997;Nu
+SV00729;Pham Viet;Uyen;06/01/1998;Nu
+SV00730;Nguyen Trong;Vu;16/07/1998;Nam
+SV00731;Tran Thi Thuy;Vy;29/05/1998;Nu
+SV00732;Hoang Thi Hai;Yen;01/01/1998;Nu
+SV00733;Pham Thi Hai;Yen;07/07/1997;Nu
+SV00734;Nguyen Ha Thuc;Anh;14/02/1998;Nu
+SV00735;Truong Thi Minh;Anh;22/05/1998;Nu
+SV00736;Tran Duc;Bao;15/12/1998;Nam
+SV00737;Nguyen Thi Bao;Chau;09/06/1998;Nu
+SV00738;Huynh Thi My;Dieu;25/04/1998;Nu
+SV00739;Nguyen Thi;Dung;25/07/1998;Nu
+SV00740;Nguyen Thi My;Duyen;28/06/1998;Nu
+SV00741;Tran Thi;Ha;04/11/1998;Nu
+SV00742;Ho Thi;Hien;06/10/1998;Nu
+SV00743;Do Huu Huy;Hoang;01/04/1997;Nam
+SV00744;Le Thi;Hue;04/03/1998;Nu
+SV00745;Pham Huu;Hung;17/05/1998;Nam
+SV00746;Nguyen Cong;Khai;08/09/1996;Nam
+SV00747;Dang Tran Nhat;Linh;11/03/1998;Nu
+SV00748;Nguyen Thi Thuy;Linh;20/08/1998;Nu
+SV00749;Le Thi;Lua;20/07/1998;Nu
+SV00750;Ho Thi;My;01/10/1998;Nu
+SV00751;Nguyen Thi;Nga;20/12/1998;Nu
+SV00752;Nguyen Thi Thuy;Ngan;07/01/1997;Nu
+SV00753;Tran Thi Kim;Ngan;29/10/1998;Nu
+SV00754;Tran Cong;Nguyen;31/05/1997;Nam
+SV00755;Le Thanh Minh;Nhat;09/03/1998;Nam
+SV00756;Nguyen Thi Quynh;Nhi;23/05/1998;Nu
+SV00757;Hoang Thi Hong;Nhung;16/03/1998;Nu
+SV00758;Ho Thi Nhu;Phuong;04/10/1998;Nu
+SV00759;Trinh Cong;Quoc;05/01/1998;Nam
+SV00760;Nguyen Ba;Quy;12/10/1997;Nam
+SV00761;Nguyen Vinh;Thanh;15/05/1997;Nam
+SV00762;Pham Thi Thanh;Thao;19/07/1998;Nu
+SV00763;Nguyen Thi;Thom;16/10/1998;Nu
+SV00764;Le Thi Tu;Trinh;06/07/1998;Nu
+SV00765;Phan Thi My;Tuy;12/04/1998;Nu
+SV00766;Huynh Thi Thanh;Van;28/05/1998;Nu
+SV00767;Ngo Thi Tuong;Vy;16/10/1998;Nu
+SV00768;Nguyen Hai;Yen;01/12/1998;Nu
+SV00769;Le Thi Kim;Lien;28/04/1998;Nu
+SV00770;Nguyen Van;Minh;27/03/1996;Nam
+SV00771;Nguyen Thi;Suong;12/06/1998;Nu
+SV00772;Vo Phuong;Nguyen;12/08/1998;Nu
+SV00773;Nguyen Thi Phuong;An;05/12/1998;Nu
+SV00774;Nguyen Thi Ngoc;Anh;24/05/1998;Nu
+SV00775;Vo Thi Ngoc;Anh;17/04/1997;Nu
+SV00776;Mai Thi Kim;Cuong;21/09/1998;Nu
+SV00777;Nguyen Thi;Dung;02/02/1998;Nu
+SV00778;Nguyen Quoc;Duy;09/12/1998;Nam
+SV00779;Duong Viet;Dat;30/05/1998;Nam
+SV00780;Le Thi Thu;Ha;25/09/1998;Nu
+SV00781;Le Thi Thanh;Hang;10/10/1998;Nu
+SV00782;Tran Thi Thu;Hang;25/09/1998;Nu
+SV00783;Tran Thi Thu;Hien;11/11/1998;Nu
+SV00784;Nguyen Huy;Hoang;17/12/1997;Nam
+SV00785;Tran Quoc;Huy;13/02/1998;Nam
+SV00786;Nguyen Thi Ngoc;Huyen;20/11/1998;Nu
+SV00787;Ho Van Thanh;Hung;03/06/1998;Nam
+SV00788;Tran Thi Thu;Huong;30/09/1998;Nu
+SV00789;Phan Thi Thanh;Lam;06/08/1998;Nu
+SV00790;Tran Thi My;Lan;20/04/1998;Nu
+SV00791;Ton Nu Bang;Le;15/11/1998;Nu
+SV00792;Do Thi Thuy;Linh;11/06/1997;Nu
+SV00793;Le Mai Dieu;Linh;22/04/1998;Nu
+SV00794;Nguyen Thi My;Linh;13/02/1998;Nu
+SV00795;Ho Thi Kim;Loan;17/05/1998;Nu
+SV00796;Le Thi Truc;Ly;08/07/1998;Nu
+SV00797;Ton Nu Thuy;My;15/06/1998;Nu
+SV00798;Thai Thi Thuy;Nga;24/10/1998;Nu
+SV00799;Le Thi Thuy;Ngan;15/05/1998;Nu
+SV00800;Cao Thi Hong;Ngoc;06/11/1998;Nu
+SV00801;Nguyen Thi Thanh;Nhan;18/09/1998;Nu
+SV00802;Le Thi Dao;Nhi;08/06/1998;Nu
+SV00803;Phung Thi Thuy;Nhi;04/01/1998;Nu
+SV00804;Ho Thi;Nhung;10/09/1998;Nu
+SV00805;Hoang Nu Quynh;Nhu;25/12/1997;Nu
+SV00806;Ho Thi;Nhu;01/07/1998;Nu
+SV00807;Vo Thi To;Nhu;28/02/1998;Nu
+SV00808;Tran Thi Hong;Ny;23/02/1998;Nu
+SV00809;Truong Thi Hoang;Oanh;23/12/1998;Nu
+SV00810;Le Thi;Phuong;31/07/1998;Nu
+SV00811;Nguyen Thi Thao;Quyen;02/12/1998;Nu
+SV00812;Le Ngoc Nhu;Quynh;17/09/1998;Nu
+SV00813;Tran Thi Nhu;Quynh;16/05/1998;Nu
+SV00814;Dao Thi Thanh;Tam;09/08/1998;Nu
+SV00815;Pham Thi Minh;Tam;10/07/1998;Nu
+SV00816;Le Thi;Thanh;10/07/1998;Nu
+SV00817;Nguyen Thi Phuong;Thao;09/03/1998;Nu
+SV00818;Phan Thi Thanh;Thu;29/11/1998;Nu
+SV00819;Le Thi Phuong;Thuy;24/12/1998;Nu
+SV00820;Phan Van;Tien;15/01/1997;Nam
+SV00821;Doan Thi Thuc;Trinh;30/12/1998;Nu
+SV00822;Nguyen Thi Tuyet;Trinh;23/10/1998;Nu
+SV00823;Tran Thi;Tuyen;18/02/1997;Nu
+SV00824;Nguyen Thi Thanh;Tu;28/11/1998;Nu
+SV00825;Ho Thi Phuong;Uyen;12/10/1998;Nu
+SV00826;Nguyen Thi;Van;21/02/1998;Nu
+SV00827;Nguyen Thi Thanh;Xuan;16/01/1998;Nu
+SV00828;Truong My;Linh;07/10/1998;Nu
+SV00829;Ca Thi;Phan;10/10/1997;Nu
+SV00830;Nguyen Thi Trang;An;14/10/1998;Nu
+SV00831;Vo Thi Kim;Anh;19/03/1998;Nu
+SV00832;Phan Thi Ngoc;Anh;22/08/1998;Nu
+SV00833;Nguyen Thi Thanh;Binh;30/04/1998;Nu
+SV00834;Huynh Khanh Bao;Chau;25/05/1998;Nu
+SV00835;Pham Ngoc;Dan;13/04/1996;Nam
+SV00836;Dang anh;Duyen;24/03/1998;Nu
+SV00837;Pham Xuan;Dang;27/02/1998;Nam
+SV00838;Ho Van Nhu;Gam;13/01/1998;Nu
+SV00839;Tran Thuy;Ha;23/09/1998;Nu
+SV00840;Dinh Thi My;Hanh;09/02/1998;Nu
+SV00841;Tran Thi My;Hang;11/01/1998;Nu
+SV00842;Pham Thuy;Hoai;15/06/1998;Nu
+SV00843;Tran Le Nhat;Hoang;12/08/1998;Nam
+SV00844;Nguyen Thi;Hue;15/07/1998;Nu
+SV00845;Nguyen Thi;Huong;03/09/1998;Nu
+SV00846;Le Thi;Lai;10/02/1998;Nu
+SV00847;Duong Mai;Linh;09/06/1998;Nu
+SV00848;Tran Thi My;Linh;09/12/1997;Nu
+SV00849;Hoang Thi;Loan;05/05/1998;Nu
+SV00850;Ta Thi;Loi;27/08/1998;Nu
+SV00851;Tran Van;Ly;15/08/1998;Nam
+SV00852;Nguyen Thi;Minh;14/03/1998;Nu
+SV00853;Tran Thi Thanh;My;12/10/1997;Nu
+SV00854;Hoang Thi Thanh;Nga;02/01/1998;Nu
+SV00855;Nguyen Thi Tinh;Ngoc;11/03/1998;Nu
+SV00856;Nguyen Thi Thu;Nguyet;01/02/1998;Nu
+SV00857;Tran Thi Hoa;Nhi;20/10/1998;Nu
+SV00858;Pham Thi My;Nhung;03/10/1997;Nu
+SV00859;Cai Thi;Nu;16/11/1998;Nu
+SV00860;Nguyen Van Thanh;Phuc;01/01/1998;Nam
+SV00861;Van Duc;Phuong;14/11/1997;Nam
+SV00862;Dinh Thi;Quynh;29/07/1998;Nu
+SV00863;Pham;Son;10/09/1996;Nam
+SV00864;Nguyen Thi Minh;Tam;06/07/1998;Nu
+SV00865;Doan Thi Da;Thao;12/08/1998;Nu
+SV00866;Nguyen Thi;Thao;25/04/1998;Nu
+SV00867;Nguyen Huu;Thien;05/05/1998;Nam
+SV00868;Hoang Thi Thanh;Thu;20/05/1998;Nu
+SV00869;Le Thi Thanh;Thuy;16/01/1998;Nu
+SV00870;Le Thi Hien;Thu;10/12/1998;Nu
+SV00871;Nguyen Thi;Tra;07/07/1998;Nu
+SV00872;Nguyen Le Mai;Trang;26/12/1998;Nu
+SV00873;Vo Thi Viet;Trinh;26/11/1998;Nu
+SV00874;Nguyen Thi To;Vy;02/05/1998;Nu
+SV00875;Dang Thi Phuong;Anh;21/04/1998;Nu
+SV00876;Nguyen Thi Bao;Anh;06/11/1998;Nu
+SV00877;Nguyen Vu Quynh;Anh;05/10/1996;Nu
+SV00878;Nguyen Dang;Binh;26/10/1998;Nam
+SV00879;Nguyen Minh;Chau;29/08/1998;Nu
+SV00880;Nguyen Thi Kieu;Chinh;06/06/1998;Nu
+SV00881;Bui Xuan;Dat;16/08/1998;Nam
+SV00882;Tran Thi Viet;Duc;05/12/1998;Nu
+SV00883;Tran Phan Nu Kieu;Giang;21/09/1998;Nu
+SV00884;Dao Thi Hong;Hanh;05/08/1998;Nu
+SV00885;Nguyen Thi Thu;Hien;27/04/1998;Nu
+SV00886;Truong Thi My;Hoa;01/06/1998;Nu
+SV00887;Le Thuy;Hoang;08/02/1998;Nu
+SV00888;Tran Dang Khanh;Huyen;20/12/1998;Nu
+SV00889;Nguyen Thi;Huong;14/01/1998;Nu
+SV00890;Le Thi Ngoc;Khanh;01/07/1998;Nu
+SV00891;Nguyen Ngoc Anh;Khoa;24/12/1998;Nam
+SV00892;Nguyen Huu;Lam;18/06/1998;Nam
+SV00893;Huynh Thi My;Linh;20/12/1998;Nu
+SV00894;Nguyen Tran My;Linh;14/05/1998;Nu
+SV00895;Tran Thi My;Linh;06/06/1997;Nu
+SV00896;Nguyen Thi Thanh;Minh;17/03/1998;Nu
+SV00897;Nguyen Thi Thuy;Ngan;30/01/1998;Nu
+SV00898;Nguyen Bao;Ngoc;10/01/1998;Nu
+SV00899;Dao Thi Hang;Nhi;04/10/1998;Nu
+SV00900;Nguyen Thi Hoai;Phuong;15/04/1998;Nu
+SV00901;Vo Thi Bich;Phuong;15/01/1998;Nu
+SV00902;Hoang Nguyen Nhu;Quynh;16/04/1998;Nu
+SV00903;Nguyen Ngoc Tieu;Quynh;24/10/1998;Nu
+SV00904;Ho Thi anh;Sao;18/06/1998;Nu
+SV00905;Tran Thi;Thanh;01/09/1998;Nu
+SV00906;Nguyen Thi Phuong;Thao;13/12/1998;Nu
+SV00907;Phan Ngoc Anh;Thao;29/08/1998;Nu
+SV00908;Tran Dinh;Thi;26/01/1998;Nam
+SV00909;Nguyen Thi;Thom;02/09/1997;Nu
+SV00910;Truong;Thuan;06/11/1998;Nam
+SV00911;Ho Thi Thanh;Thuy;24/01/1998;Nu
+SV00912;Duong Hoai;Thu;04/10/1998;Nu
+SV00913;Tran Phung;Tien;10/08/1998;Nu
+SV00914;Le Thi Tu;Tram;06/03/1998;Nu
+SV00915;Le Hoang;Trung;01/01/1998;Nam
+SV00916;Hoang Thi Kim;Uyen;29/05/1998;Nu
+SV00917;Nguyen Thi Khanh;Uyen;25/08/1998;Nu
+SV00918;Tran Nguyen Thuc;Uyen;11/08/1998;Nu
+SV00919;Nguyen Thi Tuong;Van;24/06/1998;Nu
+SV00920;Truong Thi Bich;Viet;19/11/1998;Nu
+SV00921;Ngo Thi;Vui;01/01/1998;Nu
+SV00922;Le Thi Nhu;Y;24/02/1998;Nu
+SV00923;Tran Thien Quoc;Han;16/04/1997;Nam
+SV00924;Nguyen Duc;Bien;07/03/1998;Nam
+SV00925;Hoang Thi Thuy;Dung;16/01/1998;Nu
+SV00926;Ton That;Duy;18/04/1998;Nam
+SV00927;Nguyen Thi Thuy;Duong;10/10/1998;Nu
+SV00928;Dang Nguyen Thien;Ha;01/01/1998;Nu
+SV00929;Nguyen Thi;Hang;16/03/1998;Nu
+SV00930;Van Cao Trung;Hieu;14/04/1998;Nam
+SV00931;Phan Thi;Hue;10/07/1998;Nu
+SV00932;Duong Thi Thanh;Huong;18/03/1998;Nu
+SV00933;Hoang Van;Kha;10/05/1998;Nam
+SV00934;Ho Quoc;Khanh;03/09/1998;Nam
+SV00935;Nguyen Thi;Le;01/08/1997;Nu
+SV00936;Nguyen Trung;Nghia;04/05/1998;Nam
+SV00937;Le Thi Nhu;Ngoc;11/07/1998;Nu
+SV00938;Nguyen Thi Thanh;Nguyet;05/01/1998;Nu
+SV00939;Truong Thi Kim;Nhi;14/08/1997;Nu
+SV00940;Tran Minh;Phuc;27/03/1998;Nam
+SV00941;Dang Hoang;Quan;14/03/1997;Nam
+SV00942;Mai Thanh;Son;01/12/1998;Nam
+SV00943;Phan Van;Tai;23/07/1998;Nam
+SV00944;Nguyen Thanh;Tam;30/09/1998;Nu
+SV00945;Duong Cong;Thanh;26/10/1998;Nam
+SV00946;Ho Le Phuong;Thao;24/11/1998;Nu
+SV00947;Tran Thi Thu;Thao;04/04/1998;Nu
+SV00948;Dang Duc;Thien;15/09/1996;Nam
+SV00949;Tran Thi;Thom;09/05/1998;Nu
+SV00950;Le Thi;Thu;21/04/1998;Nu
+SV00951;Do Thi My;Tien;26/11/1998;Nu
+SV00952;Vo Thi Nhu;Trang;06/05/1998;Nu
+SV00953;Dau Xuan;Tuan;20/04/1998;Nam
+SV00954;Hoang Thi;Van;22/02/1998;Nu
+SV00955;Ho Trong;Vu;16/09/1998;Nam
+SV00956;Nguyen Tuong;Vy;13/08/1997;Nu
+SV00957;Long Dong K';An;09/05/1998;Nu
+SV00958;Hoang Ngoc;Chinh;20/11/1998;Nam
+SV00959;Tran Van;Cuong;15/06/1998;Nam
+SV00960;Tran Thanh;Dat;07/08/1997;Nam
+SV00961;Nguyen Thi Thuong;Huyen;12/03/1998;Nu
+SV00962;Truong Nguyen Huyen;Nhung;27/06/1998;Nu
+SV00963;Tran Thi Thao;Quyen;26/11/1998;Nu
+SV00964;Hoang Thi Lan My;Anh;09/11/1997;Nu
+SV00965;Nguyen Chi;Bao;12/05/1998;Nam
+SV00966;Nguyen Thi Ngoc;Cam;18/04/1998;Nu
+SV00967;Vo Thi Khanh;Chi;25/09/1998;Nu
+SV00968;Ho Van;Duc;02/11/1998;Nam
+SV00969;Phan Gia;Han;23/10/1998;Nu
+SV00970;Nguyen Thu;Hien;12/02/1998;Nu
+SV00971;Dang Nhu Phuoc;Hien;11/10/1998;Nam
+SV00972;Phan Van Hoang;Huy;11/03/1997;Nam
+SV00973;Nguyen Thi;Huyen;13/03/1998;Nu
+SV00974;Dao Thi My;Linh;12/07/1998;Nu
+SV00975;Phan Thi Phuong;Mai;28/02/1998;Nu
+SV00976;Le Thi Thanh;Ngan;24/02/1998;Nu
+SV00977;Do Thi Hong;Nhung;17/05/1998;Nu
+SV00978;Pham Van;Phu;27/07/1996;Nam
+SV00979;Nguyen Thi Hanh;Phuoc;13/06/1997;Nu
+SV00980;Nguyen Thi;Phuong;20/11/1997;Nu
+SV00981;Dinh Sy;Quan;30/09/1998;Nam
+SV00982;Bui Khac;Quy;23/09/1998;Nam
+SV00983;Le Thi Thuy;Sang;27/11/1998;Nu
+SV00984;Nguyen Quang;Sang;03/05/1998;Nam
+SV00985;Nguyen Thi Minh;Tam;12/05/1998;Nu
+SV00986;Hoang Anh;Tan;20/12/1998;Nam
+SV00987;Nguyen Ngoc;Thang;12/04/1998;Nam
+SV00988;Nguyen Thi Thanh;Thuy;12/04/1998;Nu
+SV00989;Nguyen Thai;Tien;16/05/1998;Nam
+SV00990;Chau Thi Phuong;Tram;05/06/1998;Nu
+SV00991;Nguyen Thi Ngoc;Trinh;02/02/1998;Nu
+SV00992;Chau Van;Tuan;03/07/1998;Nam
+SV00993;Do Thi;Tuyen;10/02/1998;Nu
+SV00994;Nguyen Thi Thanh;Tuyen;23/07/1998;Nu
+SV00995;Nguyen Thi Thuy;Van;17/12/1998;Nu
+SV00996;Huynh Tan;Vinh;11/11/1998;Nam
+SV00997;Nguyen Xuan;Vinh;18/09/1998;Nam
+SV00998;Nguyen y;Xuan;07/01/1998;Nu
+SV00999;Chau Thi Thuy;Xum;28/08/1997;Nu
+SV01000;Huynh Thi;Dung;17/10/1998;Nu
+SV01001;Tran Xuan;Huynh;09/06/1998;Nam
+SV01002;Nguyen Thanh;Liem;23/06/1998;Nam
+SV01003;Nguyen Thi;Luong;20/01/1996;Nu
+SV01004;Ho Van;Tin;02/08/1998;Nam
+SV01005;Le Thi Kim;Anh;29/11/1998;Nu
+SV01006;Doan Thi;Anh;02/07/1998;Nu
+SV01007;Vo Huu;Binh;10/02/1998;Nam
+SV01008;Truong Van;Chung;11/04/1998;Nam
+SV01009;Le Thi Thuy;Diem;24/04/1998;Nu
+SV01010;Tran Thi Quynh;Du;24/09/1998;Nu
+SV01011;Cao Van Bao;Dat;16/06/1998;Nam
+SV01012;Mai Ba;Duc;06/07/1997;Nam
+SV01013;Truong Thi Hong;Hanh;10/11/1998;Nu
+SV01014;Tran Thi To;Hao;25/10/1998;Nu
+SV01015;Nguyen Trung;Hieu;11/10/1996;Nam
+SV01016;Nguyen Duc;Huy;01/02/1998;Nam
+SV01017;Pham Thi;Huong;22/08/1998;Nu
+SV01018;Nguyen Van;Khanh;29/05/1998;Nam
+SV01019;Phan Thi;Le;10/09/1997;Nu
+SV01020;Nguyen Thi;Linh;12/10/1998;Nu
+SV01021;Tran Le Phuong;Linh;07/07/1998;Nu
+SV01022;Nguyen Dac Hoang;Long;01/01/1998;Nam
+SV01023;Tran Khanh;Ly;22/02/1998;Nu
+SV01024;Le Hoang Thao;My;31/05/1998;Nu
+SV01025;Nguyen Hoang Phuong;Oanh;06/06/1997;Nu
+SV01026;Nguyen Thi Minh;Phuong;28/09/1998;Nu
+SV01027;Doan Van;Quy;08/09/1998;Nam
+SV01028;Van Thi Thu;Suong;16/02/1998;Nu
+SV01029;Bui Thi;Thanh;13/05/1998;Nu
+SV01030;Pham Van Tuan;Thanh;24/08/1998;Nam
+SV01031;Nguyen Bao;Thanh;23/10/1998;Nam
+SV01032;Hoang Phuong;Thao;23/01/1998;Nu
+SV01033;Nguyen Minh;Thi;17/04/1998;Nu
+SV01034;Nguyen Thi Thu;Thuy;25/08/1998;Nu
+SV01035;Tran Thi Thanh;Thuy;22/03/1998;Nu
+SV01036;Do Thi Cam;Tien;29/04/1998;Nu
+SV01037;Nguyen Thi Kieu;Trang;17/08/1998;Nu
+SV01038;Nguyen Ha an;Tram;12/09/1998;Nu
+SV01039;Ho Huu;Tri;24/06/1998;Nam
+SV01040;Le Mau Thanh;Trung;04/11/1998;Nam
+SV01041;Dao Ba;Tu;15/09/1998;Nam
+SV01042;Le Van;Tung;22/11/1996;Nam
+SV01043;Tran Van;Ty;22/02/1998;Nam
+SV01044;Nguyen Thi Hong;Van;21/07/1998;Nu
+SV01045;Nguyen Anh;Vu;04/04/1998;Nam
+SV01046;Pham Thi Thanh;Xuan;06/04/1998;Nu
+SV01047;Tran Thi;Hop;12/03/1998;Nu
+SV01048;Duong Chan;Hung;20/08/1998;Nam
+SV01049;Le Thi Ngoc;Lan;24/01/1998;Nu
+SV01050;Le Thi Minh;Ai;10/10/1998;Nu
+SV01051;Hoang Thi Tam;Anh;06/10/1998;Nu
+SV01052;Phan Phuoc;Bin;20/10/1998;Nam
+SV01053;Vy Thi Kim;Giang;17/01/1998;Nu
+SV01054;Le Van;Hieu;02/01/1998;Nam
+SV01055;Le Thi Nhu;Hoa;25/09/1997;Nu
+SV01056;Phan Thi Thu;Hong;19/01/1998;Nu
+SV01057;Cai Trong;Huy;18/01/1998;Nam
+SV01058;Doan Thi Thu;Huong;24/08/1998;Nu
+SV01059;Nguyen Trung;Kien;21/08/1998;Nam
+SV01060;Nguyen Thi Thu;Lan;05/01/1997;Nu
+SV01061;Le Van;Luom;17/01/1998;Nam
+SV01062;Tran Thi Khanh;Ly;24/01/1997;Nu
+SV01063;Pham Huu;Minh;20/09/1998;Nam
+SV01064;Le Nguyen Tra;My;12/01/1998;Nu
+SV01065;Phan Thi Hoai;Ngan;30/12/1998;Nu
+SV01066;Ngo Luu Hao;Nhi;10/11/1998;Nu
+SV01067;Le Thi;Phin;13/07/1998;Nu
+SV01068;Tran Thi Thuy;Phuong;05/03/1998;Nu
+SV01069;Hang Vinh;Quang;09/04/1998;Nam
+SV01070;Bui Thi Tuyet;Suong;27/02/1998;Nu
+SV01071;Nguyen Van;Tai;09/04/1998;Nam
+SV01072;Nguyen Phuc Phuoc;Thanh;30/04/1997;Nam
+SV01073;Trinh Minh;Thanh;10/04/1998;Nam
+SV01074;Van Viet Dieu;Thien;14/08/1998;Nu
+SV01075;Hoang Thi Kim;Thu;20/07/1998;Nu
+SV01076;Dinh Thi;Thuy;17/01/1998;Nu
+SV01077;Nguyen Thi Anh;Thu;08/12/1998;Nu
+SV01078;Hoang Thi Quynh;Trang;18/07/1997;Nu
+SV01079;Tran Thi Thao;Trang;23/03/1994;Nu
+SV01080;Nguyen Thi Thuy;Tram;17/01/1998;Nu
+SV01081;Nguyen Thi My;Trinh;21/09/1997;Nu
+SV01082;Nguyen Thi;Truyen;08/11/1998;Nu
+SV01083;Tran Nguyen Khanh;Van;09/09/1998;Nu
+SV01084;Le Gia;Vu;28/03/1997;Nam
+SV01085;Tran Thi Thien;An;03/02/1998;Nu
+SV01086;Phan Thi My;Linh;20/02/1998;Nu
+SV01087;Le Thi Nhat;Anh;11/01/1998;Nu
+SV01088;Pham Lan;Anh;31/08/1997;Nu
+SV01089;Nguyen Thi Dien;Bang;05/11/1998;Nu
+SV01090;Hoang Thi;Chau;20/08/1998;Nu
+SV01091;Nguyen Thi;Dieu;07/05/1998;Nu
+SV01092;Tran Tien;Dat;24/06/1998;Nam
+SV01093;Tran Thi Quynh;Giao;10/04/1998;Nu
+SV01094;Pham Thi;Hanh;02/12/1998;Nu
+SV01095;Lai Thi;Hang;15/10/1998;Nu
+SV01096;Phan Thi Nhu;Hieu;10/09/1998;Nu
+SV01097;Tran Thi;Hong;02/12/1998;Nu
+SV01098;Le Thi Dieu;Huyen;29/07/1998;Nu
+SV01099;Van Thi Thu;Huyen;09/08/1998;Nu
+SV01100;Nguyen Bao;Hung;13/07/1998;Nam
+SV01101;Cai Thi Thu;Huong;07/08/1997;Nu
+SV01102;Nguyen Thi;Kieu;03/02/1998;Nu
+SV01103;Huynh Ngoc Thuy;Len;11/06/1998;Nu
+SV01104;Cao Thi Thuy;Linh;24/07/1998;Nu
+SV01105;Ho My;Linh;07/05/1998;Nu
+SV01106;Pham Nguyen Hong;Linh;16/10/1997;Nu
+SV01107;Phan Thi Hoai;Linh;19/10/1997;Nu
+SV01108;Vo Thi Hoai;Linh;19/07/1998;Nu
+SV01109;Nguyen Trong;Man;03/03/1998;Nam
+SV01110;Ha Thi;Na;30/03/1997;Nu
+SV01111;Dinh Hoang Bao;Ngoc;30/12/1998;Nu
+SV01112;Luu Thi Thao;Nguyen;20/12/1998;Nu
+SV01113;Huynh Kim Hong;Nhat;27/09/1998;Nu
+SV01114;Nguyen Hoang Thao;Nhi;14/04/1998;Nu
+SV01115;Nguyen Thi Hong;Nhi;20/09/1998;Nu
+SV01116;Tran Thi Ha;Nhi;05/04/1998;Nu
+SV01117;Le Thi Hong;Nhung;15/06/1997;Nu
+SV01118;Ho Thi Tu;Nhu;03/09/1997;Nu
+SV01119;Nguyen Dac;Phuoc;15/11/1998;Nam
+SV01120;Dao Thi Thuy;Quyen;24/11/1997;Nu
+SV01121;Tran Le Chon;Tam;17/01/1998;Nam
+SV01122;Van Viet;Thai;01/01/1998;Nam
+SV01123;Ho Thi My;Thanh;11/03/1998;Nu
+SV01124;Le Van;Thao;18/09/1996;Nam
+SV01125;Phan Thi Thuy;Thao;25/11/1998;Nu
+SV01126;Ngo Hoang Phuoc;Thinh;18/04/1998;Nam
+SV01127;Truong Thi;Tiep;15/03/1998;Nu
+SV01128;Le Huyen;Trang;30/08/1997;Nu
+SV01129;Nguyen Thi Huyen;Trang;22/12/1998;Nu
+SV01130;Ha Kieu;Trinh;13/10/1998;Nu
+SV01131;Nguyen Thi Khanh;Van;22/11/1998;Nu
+SV01132;Hoang Thi Phuong;Vy;08/03/1998;Nu
+SV01133;Phan Thi Hai;Yen;04/11/1998;Nu
+SV01134;Ton Nu Bao;Han;21/10/1998;Nu
+SV01135;Pham Hong Nhat;An;24/09/1998;Nu
+SV01136;Hoang Ky;Anh;20/02/1998;Nam
+SV01137;Pham Thi Ngoc;Anh;26/04/1998;Nu
+SV01138;Tran Thi Quynh;Anh;22/02/1997;Nu
+SV01139;Dang Thi;Bich;06/03/1998;Nu
+SV01140;Nguyen Anh;Cung;31/03/1997;Nam
+SV01141;Tran Viet;Dung;12/10/1998;Nam
+SV01142;Nguyen Thi;Duyen;24/04/1998;Nu
+SV01143;Le;Dat;10/12/1998;Nam
+SV01144;Mai Phuong;Dong;08/05/1997;Nam
+SV01145;Vo Anh;Duc;08/04/1996;Nam
+SV01146;Nguyen Nu Khanh;Ha;15/12/1997;Nu
+SV01147;Hoang Thi My;Hanh;25/08/1998;Nu
+SV01148;Ho Thi Thu;Hang;07/01/1998;Nu
+SV01149;Nguyen Thi Thu;Hien;19/09/1998;Nu
+SV01150;Tran Thi Kim;Hieu;20/06/1998;Nu
+SV01151;Nguyen Huu Huy;Hoang;16/07/1998;Nam
+SV01152;Nguyen Quoc;Hung;09/10/1998;Nam
+SV01153;Tran Van Duc;Huy;25/07/1997;Nam
+SV01154;Nguyen Thi;Huong;06/03/1998;Nu
+SV01155;Nguyen Tri Nhat;Khoa;18/07/1998;Nam
+SV01156;Le Thi;Lan;07/08/1998;Nu
+SV01157;Huynh Thi;Lanh;01/06/1998;Nu
+SV01158;Ngo Tran Hoang;Lam;28/01/1997;Nam
+SV01159;Truong Quynh;Linh;20/06/1998;Nu
+SV01160;Le Tu;Minh;11/10/1997;Nam
+SV01161;Phan Dang Thuc;My;20/04/1998;Nu
+SV01162;Le Quang;Nam;21/06/1998;Nam
+SV01163;Bui Thi Thu;Ngan;27/12/1998;Nu
+SV01164;Le Viet Chi;Nghia;25/04/1998;Nam
+SV01165;Mai Thi Kim;Ngoc;20/02/1998;Nu
+SV01166;Nguyen Duy Minh;Nhat;02/07/1998;Nam
+SV01167;Ho Thi Hanh;Nhi;26/06/1998;Nu
+SV01168;Tran Thi Hoa;Nhu;11/03/1998;Nu
+SV01169;Nguyen Thi;Ny;05/04/1998;Nu
+SV01170;Ngo Van Hoang;Phu;21/06/1998;Nam
+SV01171;Dang Thi Ngoc;Phung;25/11/1997;Nu
+SV01172;Nguyen Dinh Quang;Phuoc;23/10/1998;Nam
+SV01173;Nguyen Huu Nhat;Quang;13/08/1997;Nam
+SV01174;Tran Minh;Quang;03/06/1998;Nam
+SV01175;Duong Nhat;Quy;02/10/1998;Nam
+SV01176;Phan Van;Si;26/08/1998;Nam
+SV01177;Do Thi Tuyet;Suong;08/10/1998;Nu
+SV01178;Tran Van;Thanh;03/11/1997;Nam
+SV01179;Nguyen Thi Phuong;Thao;26/07/1998;Nu
+SV01180;Nguyen Phan Dac;Thang;17/08/1998;Nam
+SV01181;Le Anh;Thinh;06/10/1998;Nam
+SV01182;Tran Ngoc Tam;Thuy;25/07/1998;Nam
+SV01183;Nguyen Viet;Tin;13/09/1997;Nam
+SV01184;Truong Thi Thanh;Trang;05/11/1998;Nu
+SV01185;Nguyen Cuu;Trung;11/07/1998;Nam
+SV01186;Le Tinh;Tu;28/02/1996;Nam
+SV01187;Ly Thanh;Tung;15/02/1998;Nam
+SV01188;Nguyen Thi Tu;Uyen;16/02/1998;Nu
+SV01189;Huynh Hanh;Vi;04/03/1998;Nu
+SV01190;Nguyen Anh;Vu;17/03/1997;Nam
+SV01191;Nguyen Van;Vu;01/01/1998;Nam
+SV01192;Huynh Thi;Xoa;10/10/1995;Nu
+SV01193;Nguyen Thi Hai;Xuan;07/08/1998;Nu
+SV01194;Nguyen Ngoc Hai;Yen;29/09/1998;Nu
+SV01195;Truong Thi;Lieu;23/09/1998;Nu
+SV01196;Nguyen Phan Ngoc;Anh;22/08/1998;Nu
+SV01197;Duong Thi Diep;An;07/04/1998;Nu
+SV01198;Nguyen Thi Luu;Bich;04/11/1998;Nu
+SV01199;Le Van;Chuong;17/04/1998;Nam
+SV01200;Nguyen Thi;Dieu;18/03/1998;Nu
+SV01201;Nguyen Duc;Duy;02/01/1998;Nam
+SV01202;Duong Van;Duong;18/12/1998;Nam
+SV01203;Nguyen Van;Hau;12/05/1998;Nam
+SV01204;Truong Thi Kim;Hien;30/09/1998;Nu
+SV01205;Ho Thi Dieu;Hoa;01/02/1998;Nu
+SV01206;Dang Thanh;Huong;05/02/1998;Nu
+SV01207;Nguyen Le Dang;Khoa;20/07/1998;Nam
+SV01208;Nguyen Thuy;Lien;12/12/1997;Nu
+SV01209;Doan Ngo Yen;Linh;08/11/1998;Nu
+SV01210;Le Luu;Ly;10/05/1998;Nu
+SV01211;Nguyen Phuong;Mai;13/05/1998;Nu
+SV01212;Pham Van;Minh;08/08/1998;Nam
+SV01213;Phan Thi;My;10/10/1998;Nu
+SV01214;Nguyen Thi My;Nga;17/11/1997;Nu
+SV01215;Dang Thi Bich;Ngoc;23/03/1998;Nu
+SV01216;Nguyen Thi;Nguyet;21/10/1998;Nu
+SV01217;Ngo Huu;Nhat;07/09/1994;Nam
+SV01218;Tran Thi Hoai;Nhi;22/04/1998;Nu
+SV01219;Hoang Thi Phuong;Ni;13/06/1998;Nu
+SV01220;Ho Thi Dieu;Quynh;31/03/1998;Nu
+SV01221;Ngo Ngoc Nguyen;Sa;10/08/1998;Nu
+SV01222;Duong Trong;Tam;19/01/1998;Nam
+SV01223;Hoang Phuoc;Thanh;19/10/1998;Nam
+SV01224;Ha Minh;Thao;15/12/1996;Nam
+SV01225;Phan Duong Thach;Thao;27/04/1998;Nu
+SV01226;Hoang Minh;Thang;13/06/1998;Nam
+SV01227;Le Van;Thoi;29/04/1998;Nam
+SV01228;Hoang Thi;Thuy;02/06/1998;Nu
+SV01229;Le Thi Thanh;Thuy;02/11/1998;Nu
+SV01230;Nguyen Giang;Thu;21/02/1998;Nu
+SV01231;Phan Thi Dieu;Trang;22/10/1998;Nu
+SV01232;Ngo Y;Tran;18/02/1998;Nu
+SV01233;Mai Thi anh;Tuyet;14/03/1998;Nu
+SV01234;Ho Thi Thu;Uyen;26/03/1998;Nu
+SV01235;Nguyen Thi;Van;21/04/1998;Nu
+SV01236;Che Quang;Vinh;07/09/1998;Nam
+SV01237;Vo Thi Ha;Vy;05/03/1997;Nu
+SV01238;Le Phuoc Hieu;Huy;03/09/1998;Nam
+SV01239;Tran Thi;An;18/08/1998;Nu
+SV01240;Nguyen Thuy;Anh;02/10/1998;Nu
+SV01241;Tong Thi;Diep;09/08/1998;Nu
+SV01242;Thai Thuy;Dung;15/02/1998;Nu
+SV01243;Huynh Thi My;Duyen;12/07/1998;Nu
+SV01244;Nguyen Thi Ngoc;Ha;09/06/1998;Nu
+SV01245;Nguyen Le Thu;Hang;21/04/1998;Nu
+SV01246;Tran Thi;Hien;30/05/1998;Nu
+SV01247;Doan Vu My;Hoa;09/07/1997;Nu
+SV01248;Tran Thi;Hoai;05/06/1998;Nu
+SV01249;Bui Thi Ngoc;Huyen;24/02/1998;Nu
+SV01250;Vo Thi;Huyen;31/03/1998;Nu
+SV01251;Minaphone;Keohomsombath;08/03/1998;Nu
+SV01252;Hoang Trong;Khai;01/11/1998;Nam
+SV01253;Ha Thi Thanh;Lan;18/10/1998;Nu
+SV01254;Nguyen Thi;Lanh;14/06/1998;Nu
+SV01255;Hoang Thi Ngoc;Le;01/05/1998;Nu
+SV01256;Huynh Thi Thuy;Linh;04/04/1998;Nu
+SV01257;Le Thi My;Linh;12/09/1998;Nu
+SV01258;Van Thi My;Linh;07/03/1998;Nu
+SV01259;Nguyen Thi Mai;Ly;05/10/1998;Nu
+SV01260;AMPHAIVANH;MILINA;10/04/1996;Nu
+SV01261;Tran Thi;Nga;01/01/1998;Nu
+SV01262;Ton Nu Phuong;Nghi;16/11/1998;Nu
+SV01263;Cap Thi Kim;Ngoc;20/01/1998;Nu
+SV01264;Thai Thi;Nhan;16/04/1998;Nu
+SV01265;Ngo Le Thao;Nhi;05/08/1998;Nu
+SV01266;Tran Thi Phuong;Nhi;11/07/1998;Nu
+SV01267;Tran Thi My;Nhung;24/07/1998;Nu
+SV01268;Nguyen Quang Quynh;Nhu;21/02/1998;Nu
+SV01269;Nguyen Thi;Ni;12/11/1998;Nu
+SV01270;Phan Thi;Ny;08/12/1994;Nu
+SV01271;Nguyen Thi;Oanh;15/10/1998;Nu
+SV01272;Bui Thi Hong;Phuong;22/03/1998;Nu
+SV01273;Nguyen Tong Nam;Phuong;12/05/1998;Nu
+SV01274;Nguyen Thanh;Quang;26/08/1998;Nam
+SV01275;Hoang Thi Nhu;Quynh;09/05/1998;Nu
+SV01276;Le Thi;Quynh;06/07/1997;Nu
+SV01277;Nguyen Ngoc Duy;Sang;02/04/1998;Nam
+SV01278;Mai Thi Thanh;Tam;20/04/1998;Nu
+SV01279;Phung Thi Thuy;Tam;06/03/1997;Nu
+SV01280;Vo Thi Kim;Thanh;31/10/1998;Nu
+SV01281;Nguyen Thi Phuong;Thao;17/12/1998;Nu
+SV01282;Phan Thi;Thuy;28/02/1998;Nu
+SV01283;Dau Thi;Tinh;19/09/1998;Nu
+SV01284;Nguyen Thi Phuong;Trinh;08/10/1998;Nu
+SV01285;Ngo Van;Tung;16/10/1998;Nam
+SV01286;Le Thi Minh;Tuyen;25/10/1998;Nu
+SV01287;Nguyen Thi Phuong;Uyen;13/09/1998;Nu
+SV01288;Trinh Van;Vinh;08/10/1997;Nam
+SV01289;Nguyen Thi;Yen;07/06/1998;Nu
+SV01290;Nguyen Thi Thanh;Thuy;07/01/1997;Nu
+SV01291;Le Nhi;Ca;02/06/1998;Nam
+SV01292;Le Van Tien;Dat;25/02/1998;Nam
+SV01293;Ho Thi My;Huong;14/02/1998;Nu
+SV01294;Hoang Thi Bich;Ai;21/02/1998;Nu
+SV01295;Dinh Thi Hoang;Anh;15/10/1997;Nu
+SV01296;Nguyen Thi Ngoc;Anh;24/04/1998;Nu
+SV01297;Phan Thi Ngoc;Anh;04/08/1998;Nu
+SV01298;Tran Thi Thanh;Binh;21/08/1998;Nu
+SV01299;Nguyen Huynh Thi Minh;Chau;29/12/1998;Nu
+SV01300;Ngo Van;Dien;22/12/1997;Nam
+SV01301;Ha Dang Phuong;Dung;04/07/1998;Nu
+SV01302;Nguyen Thi My;Duyen;12/11/1998;Nu
+SV01303;Nguyen Duc Linh;Dan;01/06/1998;Nu
+SV01304;Nguyen Thuc;Diem;02/01/1997;Nu
+SV01305;Ton Nu Ngoc;Giao;13/12/1998;Nu
+SV01306;Nguyen Ngoc;Hai;09/08/1998;Nam
+SV01307;Pham Thi Hong;Hanh;07/01/1998;Nu
+SV01308;Tran Thanh;Hien;09/10/1996;Nu
+SV01309;Bui Phan Thanh;Hoang;26/06/1997;Nam
+SV01310;Tran Viet;Hoat;06/06/1998;Nam
+SV01311;Le Thuc Bao;Huy;19/06/1998;Nam
+SV01312;Bui Thi Kim;Huyen;15/10/1998;Nu
+SV01313;Nguyen Thi Khanh;Huyen;20/12/1998;Nu
+SV01314;Tran Thi My;Huong;20/07/1998;Nu
+SV01315;Le Thi;Lanh;27/07/1998;Nu
+SV01316;Dao Thi My;Linh;10/05/1998;Nu
+SV01317;Tran Thi My;Linh;19/04/1998;Nu
+SV01318;Ho Dinh;Long;03/11/1998;Nam
+SV01319;Dang Doan Khanh;Ly;15/07/1998;Nu
+SV01320;Nguyen Thi;Manh;16/10/1997;Nu
+SV01321;Le Thi Diem;My;13/11/1998;Nu
+SV01322;Nguyen Ngoc;Nam;12/12/1998;Nam
+SV01323;Le Thi Thanh;Nga;04/06/1997;Nu
+SV01324;Nguyen Nhu;Ngoc;14/02/1998;Nu
+SV01325;Phan Thi Hoai;Ngoc;23/04/1998;Nu
+SV01326;Le Thi Thuy;Nhung;11/08/1997;Nu
+SV01327;Phan Thi;Nhung;16/05/1998;Nu
+SV01328;Tran Thi Hong;Nhung;23/11/1998;Nu
+SV01329;Truong Thi To;Nu;01/01/1998;Nu
+SV01330;Le Trong Thanh;Phuoc;24/09/1998;Nam
+SV01331;Hoang Thi Anh;Phuong;06/03/1998;Nu
+SV01332;Bui Thi Huong;Sen;02/02/1998;Nu
+SV01333;Doan Thi Cam;Tai;20/06/1998;Nu
+SV01334;Tran Nguyen Thi Thanh;Tam;21/02/1998;Nu
+SV01335;Vo Hong;Tan;14/09/1998;Nam
+SV01336;Ho Thi;Thao;31/03/1998;Nu
+SV01337;Truong Thach;Thao;22/05/1998;Nu
+SV01338;Pham Thi Kim;Thoa;19/01/1998;Nu
+SV01339;Tran Nguyen Thien;Thuat;28/10/1998;Nam
+SV01340;Luong Thi;Thuy;25/10/1997;Nu
+SV01341;Le Thi Thuy;Tien;15/08/1998;Nu
+SV01342;Nguyen Phuoc Huyen;Trang;07/10/1992;Nu
+SV01343;Vo Ngoc Huyen;Tram;05/09/1998;Nu
+SV01344;Vo Thi Kieu;Trinh;05/05/1998;Nu
+SV01345;Tran Thi;Truyen;26/04/1998;Nu
+SV01346;Nguyen Van;Ty;03/06/1998;Nam
+SV01347;A Viet;Xe;04/10/1996;Nam
+SV01348;Le Phuong;Nhan;05/04/1998;Nu
+SV01349;Mai Thi Hoang;Anh;20/10/1998;Nu
+SV01350;Nguyen Thi Kim;Anh;21/12/1998;Nu
+SV01351;Phan Le Nhat;Anh;13/10/1998;Nu
+SV01352;Hoang Minh;Chau;09/11/1998;Nu
+SV01353;Nguyen Thi Bao;Chau;14/11/1998;Nu
+SV01354;Le Thi;Chung;18/11/1997;Nu
+SV01355;Nguyen Binh Phuong;Dung;28/10/1998;Nu
+SV01356;Nguyen Ngoc;Dung;15/10/1997;Nam
+SV01357;Tran Nguyen Tien;Dat;15/10/1998;Nam
+SV01358;Ho Thi Tra;Giang;05/11/1997;Nu
+SV01359;Nguyen Thi;Hang;15/09/1996;Nu
+SV01360;Nguyen Thi;Hien;30/10/1998;Nu
+SV01361;Le Thi;Hieu;01/01/1998;Nu
+SV01362;Nguyen Trung;Hieu;24/11/1997;Nam
+SV01363;Phan Thi Thu;Hoai;18/02/1998;Nu
+SV01364;Tran Xuan;Hoai;16/01/1998;Nam
+SV01365;Tran Duc Vu;Hung;17/10/1998;Nam
+SV01366;Le Thi anh;Huyen;09/10/1998;Nu
+SV01367;Le Thi Quynh;Huong;16/02/1998;Nu
+SV01368;Nguyen Thi Thanh;Huong;14/11/1998;Nu
+SV01369;Nguyen Dang;Khoa;28/10/1998;Nam
+SV01370;Hoang Tuan;Kiet;01/09/1998;Nam
+SV01371;Nguyen Thi Kim;Lan;25/04/1998;Nu
+SV01372;Nguyen Thi;Linh;04/05/1998;Nu
+SV01373;Pham Thi Nhat;Linh;26/03/1998;Nu
+SV01374;Vo Thi Nhat;Linh;28/03/1998;Nu
+SV01375;Pham Ngoc;Minh;10/02/1998;Nam
+SV01376;Vo Thi Bao;Ngan;16/02/1997;Nu
+SV01377;Nguyen anh;Ngoc;30/09/1998;Nu
+SV01378;Doan Thi Huong;Nguyen;05/05/1998;Nu
+SV01379;Hoang Thi Quynh;Nhi;20/01/1998;Nu
+SV01380;Le Thi Dao;Nhi;30/04/1998;Nu
+SV01381;Nguyen Ngoc Phuong;Nhi;10/12/1998;Nu
+SV01382;Nguyen Thi Ngan;Nhi;13/12/1998;Nu
+SV01383;Ton Nu Thuc;Nhi;06/05/1998;Nu
+SV01384;Phan Thi Quynh;Nhu;21/07/1998;Nu
+SV01385;Pham Thi Ha;Ny;04/08/1998;Nu
+SV01386;Hoang Ngoc Bao;Phu;29/10/1998;Nam
+SV01387;Dinh Thi;Phuong;09/03/1998;Nu
+SV01388;Le Minh Tu;Phuong;12/04/1998;Nu
+SV01389;Le Thi;Phuong;17/03/1997;Nu
+SV01390;Nguyen Thi Tuyet;Phuong;29/11/1998;Nu
+SV01391;Du Thanh;Quang;01/09/1998;Nam
+SV01392;Ho Thi Huong;Quynh;18/05/1998;Nu
+SV01393;Phan Diem;Quynh;19/07/1998;Nu
+SV01394;Tran Duong Minh;Tam;02/01/1998;Nu
+SV01395;Le Phuong;Thao;18/06/1998;Nu
+SV01396;Nguyen Thi Thanh;Thao;10/02/1998;Nu
+SV01397;Tran Thi Phuong;Thao;15/04/1998;Nu
+SV01398;Dang Quang;Thien;28/07/1998;Nam
+SV01399;Huyen Ton Nu Hong;Thu;19/09/1998;Nu
+SV01400;Ngo Thi;Thuy;10/12/1997;Nu
+SV01401;Doan Thi Lan;Thu;28/08/1998;Nu
+SV01402;Pham Thi Thuy;Trang;29/11/1998;Nu
+SV01403;Ton Nu Dieu;Tram;12/04/1998;Nu
+SV01404;Nguyen Ngoc Quoc;Trung;03/06/1998;Nam
+SV01405;Le Thi Phuong;Uyen;01/05/1998;Nu
+SV01406;Nguyen Thi My;Uyen;22/09/1998;Nu
+SV01407;Nguyen Van;Vang;20/01/1998;Nam
+SV01408;Phan Thi Hong;Van;14/01/1998;Nu
+SV01409;Huynh Hua Anh;Vi;12/06/1998;Nam
+SV01410;Truong Van;Thuan;15/10/1997;Nam
+SV01411;Huynh Thi Dieu;Vy;10/06/1998;Nu
+SV01412;Nguyen Thi Ngoc;Anh;04/04/1998;Nu
+SV01413;Nguyen Van;Bach;01/06/1998;Nam
+SV01414;Nguyen Van Huy;Can;03/11/1998;Nam
+SV01415;Phan Trung;Chinh;26/02/1998;Nam
+SV01416;Duong Thi;Dieu;10/10/1998;Nu
+SV01417;Le Minh;Duy;11/11/1998;Nam
+SV01418;Ho Thi My;Duyen;08/04/1998;Nu
+SV01419;Dao Thi Tam;Dan;03/10/1998;Nu
+SV01420;Nguyen Van;Dinh;30/10/1998;Nam
+SV01421;Nguyen Diep;Ha;29/01/1998;Nu
+SV01422;Tran Thi Nhung;Hanh;28/10/1998;Nu
+SV01423;Tran Thu;Hang;04/05/1998;Nu
+SV01424;Le Thi Thu;Hoai;21/01/1998;Nu
+SV01425;Tran Thi;Hue;13/08/1998;Nu
+SV01426;Le Dinh;Hung;22/09/1998;Nam
+SV01427;Nguyen Thi Lan;Huong;17/08/1997;Nu
+SV01428;Tran Thi Thanh;Huong;03/11/1998;Nu
+SV01429;Chau Dao Hai;Khanh;17/09/1998;Nu
+SV01430;Ton Nu Ngoc;Khue;15/03/1998;Nu
+SV01431;Ho Thi My;Linh;26/05/1998;Nu
+SV01432;Doan Le Diem;Ngoc;12/02/1998;Nu
+SV01433;Nguyen Dinh;Ngoc;12/07/1998;Nam
+SV01434;Hoang Hau;Nguyen;28/03/1998;Nam
+SV01435;Nguyen Hoang;Nha;02/10/1998;Nam
+SV01436;Hoang Thanh;Nhan;24/09/1997;Nam
+SV01437;Bui Thi Yen;Nhi;21/01/1998;Nu
+SV01438;Vo Thi Hong;Nhi;29/01/1998;Nu
+SV01439;Che Quang;Ninh;10/04/1997;Nam
+SV01440;Phan Van;Phong;24/04/1998;Nam
+SV01441;Le Nhat;Phuong;01/02/1998;Nam
+SV01442;Le Phu;Quoc;18/08/1998;Nam
+SV01443;Duong Thi Nhu;Quynh;15/03/1998;Nu
+SV01444;Ho Sy;Tao;02/02/1998;Nam
+SV01445;Ho Thi;Te;04/04/1998;Nu
+SV01446;Luong Quang;Thanh;15/04/1998;Nam
+SV01447;Hoang Phan Nhu;Thao;08/11/1998;Nu
+SV01448;Huynh Doan Minh;Thao;20/04/1998;Nu
+SV01449;Ngo Thi Hong;Tham;20/04/1998;Nu
+SV01450;Nguyen Thi;Thuy;02/08/1998;Nu
+SV01451;Cao Tri;Thuc;26/08/1997;Nam
+SV01452;Le Thanh;Tinh;25/03/1998;Nam
+SV01453;Dinh Thi Huong;Tra;10/10/1997;Nu
+SV01454;Nguyen Dinh Anh;Tuan;24/12/1998;Nam
+SV01455;Vo Thi Bach;Van;01/10/1998;Nu
+SV01456;Nguyen Hoang Bao;Vy;22/07/1998;Nu
+SV01457;Tran Thi My;Yen;09/12/1998;Nu
+SV01458;Le Manh;Hung;06/11/1997;Nam
+SV01459;Trinh Thi My;Suong;21/04/1998;Nu
+SV01460;Le Thi Kim;Anh;11/09/1998;Nu
+SV01461;Nguyen Thi Ngoc;Anh;25/09/1998;Nu
+SV01462;Le Thi Cam;Chi;03/10/1998;Nu
+SV01463;Luu Anh;Cong;09/07/1998;Nam
+SV01464;Ho Thi Kim;Dung;17/04/1998;Nu
+SV01465;Phan Thuy;Duong;24/10/1998;Nu
+SV01466;Le Thanh;Dat;01/01/1998;Nam
+SV01467;Nguyen Van;Duc;26/11/1998;Nam
+SV01468;Tran Thi;Hanh;01/08/1998;Nu
+SV01469;Le Thi;Hiep;19/07/1998;Nu
+SV01470;Hoang Van;Huan;25/03/1998;Nam
+SV01471;Le Thi Thu;Huyen;08/11/1998;Nu
+SV01472;Nguyen Ngoc;Hung;29/05/1998;Nam
+SV01473;Thai Thi;Huong;06/03/1998;Nu
+SV01474;Nguyen Thi Ngoc;Lan;01/07/1998;Nu
+SV01475;Nguyen Van;Lanh;05/04/1997;Nam
+SV01476;Nguyen Thi;Lien;09/09/1998;Nu
+SV01477;Le Thi Kim;Linh;25/06/1998;Nu
+SV01478;Nguyen Thi Dieu;Linh;14/12/1998;Nu
+SV01479;Nguyen Thi Ngoc;Linh;23/01/1998;Nu
+SV01480;Tran Thi Kim;Linh;25/10/1998;Nu
+SV01481;Nguyen Duc Thanh;Long;20/01/1998;Nam
+SV01482;Vo Thi;Luong;07/07/1998;Nu
+SV01483;Ha Xuan;Man;19/01/1998;Nam
+SV01484;Le Thi Kieu;My;21/10/1998;Nu
+SV01485;Do Thi Ngoc;Na;24/10/1998;Nu
+SV01486;Pham Duc;Nang;08/08/1993;Nam
+SV01487;Duong Thi Quynh;Ngan;08/11/1998;Nu
+SV01488;Hoang Thi Bich;Ngoc;17/11/1998;Nu
+SV01489;Tran Thi;Ngoc;15/01/1998;Nu
+SV01490;Bui Cong;Nguyen;14/02/1997;Nam
+SV01491;Tran Thi Minh;Nguyet;04/04/1998;Nu
+SV01492;Phan Thanh;Nhat;26/04/1998;Nam
+SV01493;Tran Thi Bao;Ny;22/11/1998;Nu
+SV01494;Pham Hong;Phuc;27/11/1998;Nam
+SV01495;Tran Thi;Phuong;12/01/1998;Nu
+SV01496;Lam Dai;Quoc;15/10/1998;Nam
+SV01497;Nguyen Thi;Ry;20/08/1997;Nu
+SV01498;Ho Xuan;Tao;27/05/1998;Nam
+SV01499;Nguyen Thi;Thanh;01/01/1996;Nu
+SV01500;Truong Thi;Thanh;01/02/1998;Nu
+SV01501;Nguyen Thi Dieu;Thao;18/03/1998;Nu
+SV01502;Le Tuong;Thang;15/02/1998;Nam
+SV01503;Duong Quang;Thinh;05/09/1998;Nam
+SV01504;Nguyen Thi Thanh;Thuy;04/04/1998;Nu
+SV01505;Ho Thi Hong;Thu;02/01/1998;Nu
+SV01506;Le;Toan;08/12/1998;Nam
+SV01507;Nguyen Thi Ngoc;Tram;20/06/1998;Nu
+SV01508;Duong Thi Doan;Trinh;31/03/1998;Nu
+SV01509;Le Thi Tuyet;Trinh;01/01/1998;Nu
+SV01510;Nguyen Cong;Truong;15/04/1996;Nam
+SV01511;Ho Nhu Tu;Tu;19/10/1997;Nu
+SV01512;Tran Thi Thuy;Van;02/10/1997;Nu
+SV01513;Ho Dinh Hung;Vy;27/08/1998;Nam
+SV01514;Doan Thi Nhu;Y;30/08/1998;Nu
+SV01515;Ton Nu y;Nhi;24/05/1998;Nu
+SV01516;Le Van Hong;Hai;18/11/1998;Nam
+SV01517;Le Thi Thu;Hang;10/09/1998;Nu
+SV01518;Tran Phu;Khoe;27/05/1997;Nam
+SV01519;Hoang;Long;17/09/1998;Nam
+SV01520;Dang Thi Kieu;My;26/05/1998;Nu
+SV01521;Tran Thi Thuy;Nhung;24/02/1997;Nu
+SV01522;Do Duc;Uy;02/05/1998;Nam
+SV01523;Ho Thi Ngoc;Anh;22/01/1998;Nu
+SV01524;La Tran Quang;Bao;13/06/1998;Nam
+SV01525;Tran Van;Cam;12/06/1998;Nam
+SV01526;Ho Van;Cuong;18/12/1998;Nam
+SV01527;Bui Thi;Dung;08/01/1998;Nu
+SV01528;Le Thi Phu;Duyen;02/12/1998;Nu
+SV01529;Huynh Hai;Dang;29/07/1998;Nam
+SV01530;Tran Thi;Hang;19/07/1998;Nu
+SV01531;Mai Duc;Hieu;15/02/1998;Nam
+SV01532;Nguyen Thanh;Hoe;23/05/1998;Nam
+SV01533;Nguyen Thanh;Huyen;21/10/1997;Nu
+SV01534;Nguyen Viet;Khanh;02/01/1997;Nam
+SV01535;Le Thi Thu;Kieu;06/07/1998;Nu
+SV01536;Tran Thi Thuy;Lieu;01/01/1998;Nu
+SV01537;Le Thi My;Linh;29/08/1997;Nu
+SV01538;Tran Khanh;Long;23/08/1998;Nam
+SV01539;Le Thi Hao;Ly;18/06/1997;Nu
+SV01540;Hoang Thi Kieu;My;01/11/1998;Nu
+SV01541;Doan Le;Na;20/06/1998;Nu
+SV01542;Nguyen Thi Nhu;Ngoc;25/03/1998;Nu
+SV01543;Vo Dai;Nha;07/11/1997;Nam
+SV01544;Pham Xuan;Nhat;12/07/1998;Nam
+SV01545;Tran Thi Hong;Nhi;10/06/1998;Nu
+SV01546;Ho Thi Kim;Oanh;01/01/1997;Nu
+SV01547;Truong Dang ai;Phuong;29/09/1998;Nu
+SV01548;SOUNTHONETHAMMAVONG;SOULICHAN;25/12/1996;Nu
+SV01549;Vu Nhat;Thanh;06/09/1998;Nu
+SV01550;Hoang Thi Nhu;Thao;06/08/1998;Nu
+SV01551;Phan Bao Quynh;Thi;15/12/1998;Nu
+SV01552;Nguyen Phuong;Thuy;08/09/1998;Nu
+SV01553;Tran Thi Thanh;Thuy;21/03/1998;Nu
+SV01554;Dang Thanh Phung;Thu;12/08/1998;Nu
+SV01555;Nguyen;Thuong;25/12/1997;Nam
+SV01556;Pham Thi Thuy;Tien;03/07/1998;Nu
+SV01557;Pham Thi;Trang;25/04/1998;Nu
+SV01558;Nguyen Thi;Tram;20/11/1998;Nu
+SV01559;Le Ngoc;Trieu;07/01/1998;Nu
+SV01560;Dang Cong;Tu;15/01/1998;Nam
+SV01561;Le Minh;Uyen;08/06/1998;Nu
+SV01562;Le Thi;Xuan;17/03/1997;Nu
+SV01563;Nguyen Thi Ngoc;Quynh;11/09/1998;Nu
+SV01564;Le Thi Minh;Sang;09/10/1998;Nu
+SV01565;Nguyen;Vu;01/07/1998;Nam
+SV01566;Ha Thi;Anh;15/03/1998;Nu
+SV01567;Le Thi Kim;Anh;28/11/1998;Nu
+SV01568;Nguyen Thi Van;Anh;01/11/1998;Nu
+SV01569;Dang Thi Ngoc;Anh;13/09/1998;Nu
+SV01570;Nguyen Anh;Bao;21/08/1998;Nam
+SV01571;Pham Thi Ngoc;Bich;01/02/1998;Nu
+SV01572;Tran Pham Quynh;Chi;02/01/1998;Nu
+SV01573;Tran Thi;Dieu;06/06/1995;Nu
+SV01574;Phan Thi;Duyen;22/04/1998;Nu
+SV01575;Phan Cong;Duong;10/01/1998;Nam
+SV01576;Nguyen Khac;Dai;16/07/1998;Nam
+SV01577;Nguyen Huu Minh;Duc;26/06/1998;Nam
+SV01578;Le Thi Thanh;Ha;03/02/1998;Nu
+SV01579;Nguyen Thi;Hai;15/03/1998;Nu
+SV01580;Hoang Thi;Hang;28/12/1997;Nu
+SV01581;Nguyen Dinh Minh;Hieu;01/11/1998;Nam
+SV01582;Le Ngoc;Hoang;15/10/1998;Nam
+SV01583;Nguyen Thi Kim;Hong;19/06/1996;Nu
+SV01584;Tran Thi Bich;Hue;17/01/1998;Nu
+SV01585;Manh The;Huy;10/07/1997;Nam
+SV01586;Le Minh Hai;Huyen;06/02/1998;Nu
+SV01587;Pham Thi Thu;Huyen;22/04/1998;Nu
+SV01588;Le Thi Diep;Khanh;23/11/1997;Nu
+SV01589;Nguyen Khanh;Lam;25/01/1998;Nam
+SV01590;Le Thi My;Linh;04/11/1998;Nu
+SV01591;Tran Thi My;Linh;01/01/1998;Nu
+SV01592;Nguyen Van;Long;13/05/1998;Nam
+SV01593;Ha Thi Khanh;Ly;24/01/1998;Nu
+SV01594;Tran Thi;Men;01/04/1998;Nu
+SV01595;Nguyen Hoang;Minh;09/01/1998;Nam
+SV01596;Nguyen Thi Tra;My;22/07/1998;Nu
+SV01597;Tran Van;Nam;25/09/1998;Nam
+SV01598;Nguyen Thi;Ngan;20/08/1998;Nu
+SV01599;Nguyen Van;Nghia;30/11/1998;Nam
+SV01600;Nguyen Thi;Ngoc;20/01/1998;Nu
+SV01601;Le Thi Thao;Nguyen;22/12/1998;Nu
+SV01602;Le Thi Cam;Nhi;06/02/1998;Nu
+SV01603;Nguyen Thi;Nhung;16/01/1998;Nu
+SV01604;Luong Thi Quynh;Nhu;14/11/1998;Nu
+SV01605;Tran Cong Anh;Phong;29/10/1998;Nam
+SV01606;Ngo Hoang Uyen;Phuong;02/08/1997;Nu
+SV01607;Trinh Van;Quan;12/04/1998;Nam
+SV01608;Nguyen;Sieng;10/02/1997;Nam
+SV01609;Duong Thi;Tam;07/08/1998;Nu
+SV01610;Tran Thi Huyen;Tam;10/11/1998;Nu
+SV01611;Nguyen Ngoc;Thach;01/08/1997;Nam
+SV01612;Ho Thi Da;Thao;16/09/1998;Nu
+SV01613;Phan Thi Thanh;Thoa;28/08/1998;Nu
+SV01614;Nguyen Thi;Thuy;10/03/1998;Nu
+SV01615;Huynh Thi Thu;Thuy;18/02/1998;Nu
+SV01616;Vo Thi Thuy;Tien;17/11/1998;Nu
+SV01617;Nguyen Thi Thuy;Trang;06/04/1998;Nu
+SV01618;Le Huu;Triet;25/12/1998;Nam
+SV01619;Ngo Duc Thanh;Tuan;23/05/1998;Nam
+SV01620;Nguyen Kim;Tung;29/07/1998;Nam
+SV01621;Le Thi Cam;Van;14/04/1997;Nu
+SV01622;Nguyen Thi Ngoc;Yen;04/07/1997;Nu
+SV01623;Le Thi Quynh;Anh;18/09/1998;Nu
+SV01624;Nguyen Thi Nguyet;Anh;26/08/1998;Nu
+SV01625;Tran Thi Quynh;Chi;23/04/1998;Nu
+SV01626;Ngo Van Quoc;Cuong;15/11/1998;Nam
+SV01627;Nguyen Van Quang;Duy;08/05/1998;Nam
+SV01628;Nguyen Hai;Dien;17/03/1998;Nam
+SV01629;Nguyen Thi Cam;Giang;08/06/1998;Nu
+SV01630;Pham Huu Minh;Hai;10/03/1998;Nam
+SV01631;Tran Thi Hong;Hanh;19/03/1998;Nu
+SV01632;Dao Thi Bao;Hien;05/03/1998;Nu
+SV01633;Ho Dac Anh;Hoang;12/07/1998;Nam
+SV01634;Dang Thi;Hue;17/12/1998;Nu
+SV01635;Phan Van;Hung;31/12/1998;Nam
+SV01636;Nguyen Dinh;Khanh;20/12/1998;Nam
+SV01637;Ho Tung Nhat;Khuong;16/08/1998;Nam
+SV01638;Phan Thi;Lang;06/12/1998;Nu
+SV01639;Duong Thi Nhat;Linh;16/06/1998;Nu
+SV01640;Nguyen Thi Hoai;Linh;06/04/1998;Nu
+SV01641;Phan Thi Thuy;Linh;02/06/1998;Nu
+SV01642;Tran Thi Kim;Loan;09/09/1998;Nu
+SV01643;Pham Viet;Long;17/05/1998;Nam
+SV01644;Le Quang Nhat;Minh;16/11/1998;Nam
+SV01645;Tran Thi Dieu;My;07/01/1998;Nu
+SV01646;Pham Thi;Na;02/03/1998;Nu
+SV01647;Nguyen Thi;Nga;20/05/1997;Nu
+SV01648;Le Viet;Nghia;21/01/1998;Nam
+SV01649;Nguyen Hong;Ngoc;16/09/1998;Nu
+SV01650;Truong My;Ngoc;07/04/1998;Nu
+SV01651;Le Thi Thao;Nguyen;12/10/1998;Nu
+SV01652;Nguyen Thi;Nguyet;24/11/1998;Nu
+SV01653;Tran Thi;Ngu;19/04/1997;Nu
+SV01654;Pham Tien;Nhan;01/07/1998;Nam
+SV01655;Pham Thanh;Nhat;12/06/1998;Nam
+SV01656;Nguyen Tran Lan;Nhi;23/11/1998;Nu
+SV01657;Tran Thi Thuy;Nhi;01/05/1998;Nu
+SV01658;Nguyen Thi Thuy;Nhung;15/02/1998;Nu
+SV01659;Nguyen Thi;Nhu;07/02/1998;Nu
+SV01660;Ho Thi;Ny;18/08/1997;Nu
+SV01661;Tran Thi Kieu;Oanh;01/07/1998;Nu
+SV01662;Nguyen Van;Pho;20/12/1998;Nam
+SV01663;Bui Ha;Phuong;11/07/1998;Nu
+SV01664;Nguyen Thi Thu;Phuong;19/12/1998;Nu
+SV01665;Le Thi Uyen;Quyen;25/04/1998;Nu
+SV01666;Do;Sang;17/08/1998;Nam
+SV01667;KOUNLAVONG;SODASAMONE;02/10/1996;Nam
+SV01668;Doan Thien;Tam;17/07/1998;Nam
+SV01669;Vu Le;Thanh;10/10/1998;Nam
+SV01670;Nguyen Thi Phuong;Thao;24/07/1998;Nu
+SV01671;Nguyen Dac;Thang;07/09/1998;Nam
+SV01672;Nguyen Cong;Thinh;15/08/1998;Nam
+SV01673;Ho Thi Thanh;Thuy;02/01/1998;Nu
+SV01674;Nguyen Thi Hoai;Thuong;10/03/1998;Nu
+SV01675;Le Thi Thuy;Trang;30/10/1998;Nu
+SV01676;Phan Thi;Trang;11/03/1998;Nu
+SV01677;Tran Thi Thanh;Tram;20/08/1998;Nu
+SV01678;Le Thi Tu;Trinh;10/12/1998;Nu
+SV01679;Do Minh;Tuan;16/11/1998;Nam
+SV01680;Tran Thi;Tu;10/07/1997;Nu
+SV01681;Vo Thi Phuong;Uyen;20/10/1998;Nu
+SV01682;Nguyen Thi Tuong;Vi;25/03/1998;Nu
+SV01683;Hatsavanh;Xayaphone;28/01/1998;Nu
+SV01684;SOULIVONG;XAYXANA;06/07/1997;Nam
+SV01685;Le Thi Thanh;Xuan;12/01/1998;Nu
+SV01686;Ho Thi Linh;Dan;20/04/1998;Nu
+SV01687;Tran Thi;Huyen;27/02/1998;Nu
+SV01688;Nguyen Thi Phuong;Thanh;22/02/1998;Nu
+SV01689;Nguyen Thi Tram;Anh;12/03/1998;Nu
+SV01690;Tran Viet Tuan;Anh;27/09/1998;Nam
+SV01691;Le Bao;Chau;11/10/1998;Nu
+SV01692;Le Hoang Bao;Chau;28/02/1997;Nu
+SV01693;Nguyen Thi;Chung;30/07/1996;Nu
+SV01694;Dang Thi Ngoc;Diem;19/01/1998;Nu
+SV01695;Ha Trong;Duy;05/05/1998;Nam
+SV01696;Le Thi My;Duyen;19/05/1998;Nu
+SV01697;Nguyen Thi Anh;Dao;29/04/1998;Nu
+SV01698;Duong Thi Tra;Giang;23/02/1998;Nu
+SV01699;Do Anh Thanh;Hang;23/03/1998;Nu
+SV01700;Tran Xuan;Hau;20/04/1997;Nam
+SV01701;Ho Nam;Hien;15/11/1998;Nam
+SV01702;Phan Dinh;Hieu;01/05/1998;Nam
+SV01703;Nguyen Nhat;Hoang;09/10/1998;Nam
+SV01704;Nguyen Van;Huy;12/05/1998;Nam
+SV01705;Pham Xuan;Huy;27/11/1992;Nam
+SV01706;Dang Thi Khanh;Huyen;08/08/1998;Nu
+SV01707;Kieu Nhat;Hung;22/07/1998;Nam
+SV01708;Pham Quoc;Khanh;02/09/1998;Nam
+SV01709;Nguyen Thi Du;Ki;06/03/1998;Nu
+SV01710;Chau Thi Thuy;Linh;01/01/1998;Nu
+SV01711;Nguyen Ba Thuy;Linh;13/01/1998;Nu
+SV01712;Nguyen Thi Hoai;Linh;30/05/1998;Nu
+SV01713;Le Hanh;Ngan;19/09/1998;Nu
+SV01714;Nguyen Khoa Thuc;Nghi;10/11/1998;Nu
+SV01715;Vo Le Diem;Ngoc;15/03/1998;Nu
+SV01716;Nguyen Xuan Minh;Nhat;17/11/1998;Nam
+SV01717;Hoang Thi Quynh;Nhi;16/02/1996;Nu
+SV01718;Nguyen Ngoc Thao;Nhi;29/10/1998;Nu
+SV01719;Ton Nu Phuong;Nhi;11/09/1998;Nu
+SV01720;Dao Tien;Phong;20/08/1998;Nam
+SV01721;Huynh Thi Diem;Phuong;22/10/1998;Nu
+SV01722;Le Chi;Quan;28/11/1998;Nam
+SV01723;Nguyen Ngoc;Quynh;17/11/1998;Nu
+SV01724;Tran Ngoc;Thanh;11/12/1998;Nam
+SV01725;Nguyen Thanh;Thao;24/12/1998;Nu
+SV01726;Hoang Ba;Thang;30/06/1998;Nam
+SV01727;Hoang Thi Minh;Thu;29/11/1998;Nu
+SV01728;Nguyen Thi;Truc;25/08/1997;Nu
+SV01729;Hoang Dang;Trung;17/12/1998;Nam
+SV01730;Tran Bao;Trung;08/09/1997;Nam
+SV01731;Dinh Thanh;Tu;30/09/1998;Nam
+SV01732;Ngo Thi Tuyet;Anh;01/03/1998;Nu
+SV01733;Nguyen Van;Anh;16/12/1998;Nam
+SV01734;Tran Thi Kim;Anh;10/05/1998;Nu
+SV01735;Do Le Thanh;Binh;10/01/1998;Nu
+SV01736;Tran Dinh Dieu;Cat;02/04/1998;Nu
+SV01737;Vo;Dien;20/04/1998;Nam
+SV01738;Le Trung;Dinh;03/11/1998;Nam
+SV01739;Dang Quoc;Hai;15/09/1997;Nam
+SV01740;Cao Huu;Hoang;03/10/1998;Nam
+SV01741;Vo Huy;Hoang;09/09/1998;Nam
+SV01742;Phan Khanh;Huyen;25/12/1996;Nu
+SV01743;Nguyen Van Tuan;Hung;15/06/1995;Nam
+SV01744;Vo Thi;Huong;14/06/1998;Nu
+SV01745;Le Thi Thuy;Linh;06/06/1998;Nu
+SV01746;Tran Thi Tuong;Linh;30/05/1998;Nu
+SV01747;Tran Y Ngoc;Linh;01/10/1997;Nu
+SV01748;Vo Thi;Man;18/02/1998;Nu
+SV01749;Ho Nhat;Minh;22/11/1998;Nam
+SV01750;Vu Xuan Thao;Nguyen;09/06/1998;Nu
+SV01751;Le Hong Phuong;Nhi;22/03/1998;Nu
+SV01752;Ngo Thi Thanh;Nhi;26/07/1998;Nu
+SV01753;Vo Ha Huyen;Nhung;29/10/1998;Nu
+SV01754;Nguyen Thi ai;Ni;05/02/1998;Nu
+SV01755;Nguyen Thi Phuong;Oanh;06/02/1998;Nu
+SV01756;Ho Van;Phat;30/08/1998;Nam
+SV01757;Vo Van;Phuc;11/01/1998;Nam
+SV01758;Hoang Bich;Phuong;05/02/1998;Nu
+SV01759;Le Thi Mai;Phuong;10/02/1998;Nu
+SV01760;Nguyen Thi Minh;Phuong;15/01/1996;Nu
+SV01761;Doan Thanh;Quang;23/06/1998;Nam
+SV01762;Dang Hoang;Quan;09/01/1998;Nam
+SV01763;Ho The Diem;Quynh;22/10/1998;Nu
+SV01764;Nguyen Thu;Thao;15/10/1998;Nu
+SV01765;Nguyen Cuu Thi;Thuy;04/11/1998;Nu
+SV01766;Le Hoang Bao;Thu;15/02/1998;Nu
+SV01767;Ho Thi Giao;Tien;09/03/1998;Nu
+SV01768;Tran Thuy;Tien;01/01/1998;Nu
+SV01769;Pham Ngoc Huu;Tin;16/09/1998;Nam
+SV01770;Le Viet;Toan;26/09/1998;Nam
+SV01771;Nguyen Thi Thuy;Trang;02/03/1998;Nu
+SV01772;Phan Huyen;Trang;29/12/1998;Nu
+SV01773;Le Thi ai;Tram;04/04/1998;Nu
+SV01774;Hoang Hieu;Trung;22/10/1997;Nam
+SV01775;Nguyen Cong;Tuan;26/04/1998;Nam
+SV01776;Le Huynh Phuong;Uyen;26/02/1998;Nu
+SV01777;Le Thi Thu;Uyen;05/11/1998;Nu
+SV01778;Truong Le Tu;Uyen;25/02/1998;Nu
+SV01779;Nguyen Quan Gia;Hung;11/04/1998;Nu
+SV01780;Phan Thi;Lan;10/02/1998;Nu
+SV01781;Nguyen Thi Thuy;Linh;03/05/1998;Nu
+SV01782;Nguyen Thi Nhu;Quynh;06/11/1998;Nu
+SV01783;Le Thi Thanh;Thu;03/08/1998;Nu
+SV01784;Tong Phuoc Tam;Anh;31/03/1989;Nam
+SV01785;Nguyen Thi Ngoc;Anh;10/10/1992;Nu
+SV01786;Than Quang Dai;Dung;02/09/1985;Nam
+SV01787;Nguyen Tan Anh;Duy;16/02/1992;Nam
+SV01788;Nguyen Thi Thu;Ha;09/07/1993;Nu
+SV01789;Hoang Bach;Hiep;01/02/1991;Nam
+SV01790;Vo Thi Nhu;Hoa;24/08/1989;Nu
+SV01791;Tran Thi;Hoa;08/06/1989;Nu
+SV01792;Vo Van;Hoi;01/02/1989;Nam
+SV01793;Le;Hung;25/04/1984;Nam
+SV01794;Tran Thi Minh;Huong;01/03/1988;Nu
+SV01795;Tran Thi My;Huong;09/08/1980;Nu
+SV01796;Nguyen Minh;Khoa;21/07/1993;Nam
+SV01797;Le Thi Nhat;Linh;05/09/1994;Nu
+SV01798;Nguyen Ngoc Khanh;Linh;14/10/1994;Nu
+SV01799;Le Thi;Loan;20/11/1979;Nu
+SV01800;Le Minh;Long;02/01/1988;Nam
+SV01801;Le Trung;Long;02/07/1984;Nam
+SV01802;Nguyen Le Phu;Loc;04/02/1993;Nam
+SV01803;Vo thi Tuyet;Minh;12/08/1987;Nu
+SV01804;Nguyen Phuc;Nam;27/10/1993;Nam
+SV01805;Vo Thi Hoai;Nam;02/07/1992;Nu
+SV01806;Tran Cao Vinh;Ngoc;08/10/1982;Nam
+SV01807;Nguyen Thi Thanh;Nhan;09/08/1986;Nu
+SV01808;Dinh Thi Hong;Nhat;06/06/1991;Nu
+SV01809;Ho Nguyen Lan;Nhi;09/01/1991;Nu
+SV01810;Ngo Thi Phuoc;Nhi;20/12/1993;Nu
+SV01811;Le Thi Thuy;Nhung;20/06/1991;Nu
+SV01812;Tran Thi My;Nhung;01/06/1993;Nu
+SV01813;Ho Thi Hong;Nhu;30/10/1993;Nu
+SV01814;Dang Thi Phuong;Oanh;06/02/1975;Nu
+SV01815;Tao The;Phong;17/03/1992;Nam
+SV01816;Nguyen Thi Kim;Phung;01/05/1977;Nu
+SV01817;Duong Thi My;Phuong;10/10/1994;Nu
+SV01818;Le Van;Quang;03/01/1988;Nam
+SV01819;Huynh Van;Ri;13/07/1992;Nam
+SV01820;Nguyen Thi Minh;Tam;17/11/1989;Nu
+SV01821;Nguyen Thi Thanh;Tam;24/02/1991;Nu
+SV01822;Tran Ngoc Dieu;Tam;05/05/1992;Nu
+SV01823;Nguyen Thi Phuoc;Thanh;22/04/1992;Nu
+SV01824;Pham Thi Da;Thao;16/08/1993;Nu
+SV01825;Vo Huu;Tho;25/12/1986;Nam
+SV01826;Nguyen Thi;Thuy;06/11/1993;Nu
+SV01827;Hoang Thi Lam;Thu;30/09/1993;Nu
+SV01828;Le Nguyen Anh;Thy;18/04/1994;Nu
+SV01829;Nguyen Thi Thao;Tien;24/12/1988;Nu
+SV01830;Tran Nguyen Quynh;Tien;25/10/1988;Nu
+SV01831;Pham Thi Quynh;Trang;13/01/1991;Nu
+SV01832;Ho Tat Khanh;Tung;11/06/1977;Nam
+SV01833;Tran Vu Phuong;Uyen;21/05/1994;Nu
+SV01834;Phan Thi Hoang;Van;20/10/1994;Nu
+SV01835;Nguyen Thi Tinh;Vi;16/02/1993;Nu
+SV01836;Ho Huu Quoc;Viet;13/09/1992;Nam
+SV01837;Tran;Vu;17/09/1992;Nam
+SV01838;Phan Thi Hai;Yen;01/10/1988;Nu
+SV01839;Van Thi Ngoc;Ha;19/10/1993;Nu
+SV01840;Luong Thi Quynh;Anh;23/07/1987;Nu
+SV01841;Kim Dinh;Bach;16/03/1993;Nam
+SV01842;Phung Minh;Duc;25/08/1991;Nam
+SV01843;Tran Huu;Khanh;20/04/1989;Nam
+SV01844;Nguyen Thi Kieu;My;11/04/1993;Nu
+SV01845;Hoang Nguyen Bao;Nhi;16/09/1992;Nu
+SV01846;Tran Thi Y;Nhi;05/07/1994;Nu
+SV01847;Ngo Thi Tuyet;Nhung;15/11/1992;Nu
+SV01848;Nguyen Thi;Phuong;01/08/1982;Nu
+SV01849;Nguyen Thi Luu;Phuong;06/11/1991;Nu
+SV01850;Ngo Thi;Phuong;21/03/1975;Nu
+SV01851;Doan Thi Thu;Thao;28/05/1992;Nu
+SV01852;Phan Thi Thanh;Thuy;07/10/1993;Nu
+SV01853;Nguyen Viet;Thuc;15/10/1993;Nam
+SV01854;Tran Ngoc;Trong;07/10/1993;Nam
+SV01855;Nguyen Thi Hoai;An;28/04/1989;Nu
+SV01856;Tran Thi Thuy;An;08/10/1991;Nu
+SV01857;Ho Nguyen Tuan;Anh;14/10/1988;Nam
+SV01858;Le Duong Phuong;Anh;21/08/1994;Nu
+SV01859;Nguyen Quynh;Anh;23/04/1994;Nu
+SV01860;Phan Thi Kim;Anh;15/11/1994;Nu
+SV01861;Vo Doan Viet;Anh;04/11/1994;Nam
+SV01862;Vo Thi Xuan;Anh;23/12/1995;Nu
+SV01863;Le Thi Nhu;Anh;16/07/1995;Nu
+SV01864;Nguyen Vu Hong;An;29/09/1993;Nu
+SV01865;Le Viet Hoang;Cat;21/09/1993;Nam
+SV01866;Nguyen Thi Ngoc;Diep;23/11/1993;Nu
+SV01867;Nguyen Thi My;Dung;01/01/1994;Nu
+SV01868;Nguyen Duy;Dung;17/05/1993;Nam
+SV01869;Ngo Thi Anh;Dao;02/02/1994;Nu
+SV01870;Le Van;Diep;01/02/1995;Nam
+SV01871;Ho Duy;Duc;09/06/1993;Nam
+SV01872;Truong Cong;Duc;11/11/1993;Nam
+SV01873;Nguyen Thi Ngoc;Ha;24/10/1994;Nu
+SV01874;Tran Thi;Hanh;05/01/1994;Nu
+SV01875;Huynh Thi Kim;Hang;08/04/1994;Nu
+SV01876;Nguyen Khoa Dieu;Hiep;24/07/1993;Nu
+SV01877;Phan Thi;Hoa;29/03/1994;Nu
+SV01878;Cao Nguyen;Hoang;23/10/1994;Nam
+SV01879;Le Minh;Hoang;09/01/1991;Nam
+SV01880;Nguyen Thi;Hong;22/12/1992;Nu
+SV01881;Pham Dang Minh;Hung;01/02/1992;Nam
+SV01882;Ho Quang;Huy;12/09/1993;Nam
+SV01883;Nguyen Khanh;Huyen;08/08/1995;Nu
+SV01884;Nguyen Phuoc Ngoc;Huyen;06/07/1995;Nu
+SV01885;Ho Thi Linh;Huong;12/08/1993;Nu
+SV01886;Nguyen Phan Thao;Huong;22/03/1994;Nu
+SV01887;Ton Nu Diem;Huong;19/05/1993;Nu
+SV01888;Ho Hai;Khanh;31/08/1994;Nu
+SV01889;Tran Thi Anh;Khue;16/05/1994;Nu
+SV01890;Vu Hoang;Lam;13/09/1994;Nam
+SV01891;Nguyen Nu Thuy;Lien;06/05/1994;Nu
+SV01892;Dinh Thi;Lieu;28/06/1991;Nu
+SV01893;Tran Lam Khanh;Linh;28/12/1993;Nu
+SV01894;Hoang Thi Kim;Loan;10/11/1993;Nu
+SV01895;Nguyen Thi Thanh;Long;22/10/1988;Nu
+SV01896;Phung Thi Truc;Ly;14/12/1991;Nu
+SV01897;Hoang Thi Phuong;Mai;22/10/1995;Nu
+SV01898;Tran Ngoc;Minh;29/05/1995;Nam
+SV01899;Tran Thi;Minh;01/09/1993;Nu
+SV01900;Dang Van;Muoi;21/04/1993;Nam
+SV01901;Tran Thi Anh;My;17/02/1992;Nu
+SV01902;Tran Thi Thuy;Ngan;01/08/1995;Nu
+SV01903;Le Boi;Ngoc;01/03/1993;Nam
+SV01904;Nguyen Tan;Ngoc;10/01/1993;Nam
+SV01905;Nguyen Thi;Ngoc;05/11/1992;Nu
+SV01906;Nguyen Thi Nhu;Ngoc;13/01/1993;Nu
+SV01907;Phan Thi Linh;Nham;01/10/1995;Nu
+SV01908;Phan Hong;Nhan;01/03/1995;Nu
+SV01909;Ton That Thanh;Nhan;18/02/1994;Nam
+SV01910;Huynh Thi Phuong;Nhi;01/03/1993;Nu
+SV01911;Huynh Thi Thuy;Nhi;03/08/1995;Nu
+SV01912;Nguyen Thi My;Nhi;29/10/1985;Nu
+SV01913;Nguyen Thi Phuong;Nhi;24/07/1993;Nu
+SV01914;Le Thi Hong;Nhung;23/11/1993;Nu
+SV01915;Tran Thi Quynh;Nhu;21/07/1992;Nu
+SV01916;Trinh Thi Quynh;Nhu;09/04/1992;Nu
+SV01917;Tran Thi Bich;Ni;30/10/1991;Nu
+SV01918;Nguyen Thi Kim;Oanh;07/10/1993;Nu
+SV01919;Vo;Phung;02/12/1995;Nam
+SV01920;Luong Thi;Phuong;25/07/1994;Nu
+SV01921;Ngo Thi Khanh;Phuong;02/12/1993;Nu
+SV01922;Nguyen Thi Thuy;Phuong;15/06/1989;Nu
+SV01923;Tran Thi Hoai;Phuong;20/01/1995;Nu
+SV01924;Le Thi;Phuong;29/09/1995;Nu
+SV01925;Nguyen Dac;Quy;27/04/1992;Nam
+SV01926;Le Thi Nhu;Quynh;22/02/1992;Nu
+SV01927;Truong Thi;Quyt;06/11/1994;Nu
+SV01928;Tran;Sy;25/05/1992;Nam
+SV01929;Duong Dac;Tam;06/01/1993;Nam
+SV01930;Duong Nhat;Tan;22/10/1994;Nam
+SV01931;Mai Thi Nhat;Tan;11/07/1995;Nu
+SV01932;Ha Thi Phuong;Thanh;26/06/1992;Nu
+SV01933;Ho Le Phuong;Thanh;20/11/1994;Nu
+SV01934;Pham Thi Minh;Thanh;19/04/1992;Nu
+SV01935;Le Thi Phuong;Thao;16/04/1995;Nu
+SV01936;Le Thi Phuong;Thao;25/09/1994;Nu
+SV01937;Nguyen Thi;Thao;10/10/1993;Nu
+SV01938;Nguyen Thi Phuong;Thao;06/04/1992;Nu
+SV01939;Nguyen Thi Phuong;Thao;26/08/1992;Nu
+SV01940;Phan Thi Thanh;Thao;09/05/1994;Nu
+SV01941;Nguyen Phung;Thien;22/10/1986;Nam
+SV01942;Nguyen Thi Ngoc;Thuy;12/01/1988;Nu
+SV01943;Nguyen Thi Hoai;Thuong;02/10/1992;Nu
+SV01944;Le Duc;Tien;20/09/1994;Nam
+SV01945;Duong Thi Huong;Tra;11/02/1993;Nu
+SV01946;Huynh Thi Quynh;Trang;18/12/1993;Nu
+SV01947;Pham Le Thien;Trang;30/12/1994;Nu
+SV01948;Tran Thi Thu;Trang;11/01/1995;Nu
+SV01949;Phan Thi Ngoc;Tram;19/11/1994;Nu
+SV01950;Dang Thi My;Trung;05/12/1995;Nu
+SV01951;Le Thi;Ut;17/02/1991;Nu
+SV01952;Le Thi Hong;Van;13/05/1993;Nu
+SV01953;Nguyen Thi;Vinh;06/10/1992;Nu
+SV01954;Nguyen Thi Thuy;Vy;08/10/1992;Nu
+SV01955;Nguyen Thi Minh;Xuan;04/03/1994;Nu
+SV01956;Le Thi Nhat;Yen;03/03/1989;Nu
+SV01957;Mai Nguyen Hoang;Anh;13/11/1993;Nu
+SV01958;Phan Thi Thu;Hien;10/01/1992;Nu
+SV01959;Le Thi Huyen;Trang;26/10/1991;Nu
+SV01960;Nguyen Thi;Luyen;10/11/1995;Nu
+SV01961;Vo Thi Ngoc;Thuy;18/05/1995;Nu
+SV01962;Cao Thi Van;Anh;19/05/1993;Nu
+SV01963;Duong Thi Kieu;Anh;01/04/1992;Nu
+SV01964;Ha Thi Kieu;Anh;26/05/1994;Nu
+SV01965;Han Thi Kieu;Anh;26/03/1995;Nu
+SV01966;Hoang Thi Phuong;Anh;29/03/1995;Nu
+SV01967;Ngo Quy Nam;Anh;06/07/1994;Nam
+SV01968;Nguyen Thi Tu;Anh;28/10/1994;Nu
+SV01969;Tran Thi Phuong;Anh;28/12/1993;Nu
+SV01970;Vo Tu;Anh;15/09/1993;Nu
+SV01971;Ho Ngoc Ngan;Chau;23/09/1994;Nu
+SV01972;Tong Thi Bao;Chau;22/03/1994;Nu
+SV01973;Nguyen Nhu;Cuong;22/08/1993;Nam
+SV01974;Ho Thi Phuong;Dung;24/05/1994;Nu
+SV01975;Tran Thi Phuong;Dung;04/11/1991;Nu
+SV01976;Tran Van;Dung;14/03/1987;Nam
+SV01977;Hoang Thuy;Duong;05/01/1995;Nu
+SV01978;Bui Van;Duc;26/06/1992;Nam
+SV01979;Hoang Ngoc;Duc;10/08/1986;Nam
+SV01980;Nguyen Thi Thu;Ha;05/09/1993;Nu
+SV01981;Tran Thi Thanh;Ha;20/06/1993;Nu
+SV01982;Le Thanh;Hai;16/12/1992;Nam
+SV01983;Luu Thi My;Hanh;13/04/1983;Nu
+SV01984;Nguyen Thi Thuy;Hang;21/05/1993;Nu
+SV01985;Ngo Thi Thu;Hien;28/10/1994;Nu
+SV01986;Le Van;Hieu;11/05/1993;Nam
+SV01987;Le Van;Hoang;06/09/1994;Nam
+SV01988;Le Viet;Hoang;23/04/1992;Nam
+SV01989;Tran Nguyen Bao;Hoang;26/03/1986;Nam
+SV01990;Le;Hop;30/08/1995;Nam
+SV01991;Nguyen Thi;Hue;18/01/1994;Nu
+SV01992;Nguyen Thi;Hue;09/02/1993;Nu
+SV01993;Doan Viet;Hung;12/12/1993;Nam
+SV01994;Tran Dinh;Huy;29/08/1993;Nam
+SV01995;Tran Duc;Huy;20/09/1993;Nam
+SV01996;Tran Thi My;Huyen;03/05/1991;Nu
+SV01997;Le Thi Boi;Huong;15/10/1994;Nu
+SV01998;Le Thi My;Huong;20/10/1994;Nu
+SV01999;Le Si Anh;Khoa;24/09/1994;Nam
+SV02000;Van Thi;Lanh;01/01/1994;Nu
+SV02001;Ho Thi Mong;Lien;20/01/1992;Nu
+SV02002;Le Thi Cam;Linh;24/02/1995;Nu
+SV02003;Le Thi Thuy;Linh;14/10/1994;Nu
+SV02004;Dang Thi Nhat;Loan;22/10/1995;Nu
+SV02005;Nguyen Thi;Luan;15/05/1995;Nu
+SV02006;Nguyen Le Thao;Ly;19/10/1993;Nu
+SV02007;Nguyen Thi Ngoc;Minh;10/02/1987;Nu
+SV02008;Nguyen Thi J;Na;30/07/1995;Nu
+SV02009;Hoang Thi Thanh;Nga;10/05/1994;Nu
+SV02010;Le Thi Kieu;Nga;02/01/1989;Nu
+SV02011;Nguyen Ngoc;Nghia;22/09/1994;Nam
+SV02012;Ho Thi;Ngoc;26/09/1993;Nu
+SV02013;Nguyen Phuoc Khanh;Ngoc;07/06/1994;Nu
+SV02014;Ho Quoc;Nhat;02/08/1989;Nam
+SV02015;Le Hong;Nhi;08/02/1993;Nu
+SV02016;Le Thi Kieu;Nhi;24/08/1993;Nu
+SV02017;Le Thi Cam;Nhung;11/11/1994;Nu
+SV02018;Phan Thi Hong;Nhung;14/05/1994;Nu
+SV02019;Truong Thi My;Nhu;28/09/1994;Nu
+SV02020;Nguyen Thi My;Ni;02/06/1995;Nu
+SV02021;Le Minh;Phi;02/04/1993;Nam
+SV02022;Dao Hiep;Phu;09/12/1993;Nam
+SV02023;Luu Thi Hong;Phuc;11/03/1986;Nu
+SV02024;Le Dinh;Phung;01/05/1994;Nam
+SV02025;Do Thi Thu;Phuong;19/12/1995;Nu
+SV02026;Hoang Thi My;Phuong;15/09/1992;Nu
+SV02027;Ho Thi Quynh;Phuong;19/02/1994;Nu
+SV02028;Pham Thi Hoang;Phuong;29/06/1994;Nu
+SV02029;Hoang Ngoc;Quy;01/08/1994;Nam
+SV02030;Pham;Quyet;06/02/1987;Nam
+SV02031;Hoang Nhu;Quynh;20/09/1994;Nu
+SV02032;Vo Thi;Ry;25/10/1993;Nu
+SV02033;Ho Thi Ngoc;Tai;20/03/1994;Nu
+SV02034;Truong Thi Thuy;Tan;02/02/1993;Nu
+SV02035;Le Nhu;Thanh;02/10/1988;Nam
+SV02036;Bui Thi Minh;Thao;09/09/1993;Nu
+SV02037;Cai Thi;Thao;07/05/1994;Nu
+SV02038;Phan Thi Phuoc;Tham;12/06/1994;Nu
+SV02039;Dinh Thi;Than;20/01/1995;Nu
+SV02040;Tran Duc;Thien;28/04/1992;Nam
+SV02041;Duong Thi Hoai;Thu;08/12/1994;Nu
+SV02042;Ho Thi Hong;Thuy;19/10/1993;Nu
+SV02043;Vo Thi;Thy;08/01/1995;Nu
+SV02044;Le Thi Thanh;Tinh;01/01/1995;Nu
+SV02045;Nguyen Thi Thien;Trang;21/03/1995;Nu
+SV02046;Phan Thi Quynh;Trang;01/06/1994;Nu
+SV02047;Nguyen Thi;Truc;13/08/1991;Nu
+SV02048;Doan Thi Thanh;Tuyen;21/05/1994;Nu
+SV02049;Nguyen Thi Nhu;Tuyet;31/03/1993;Nu
+SV02050;Truong Thi;Tuoi;15/02/1995;Nu
+SV02051;Tran To;Uyen;27/10/1994;Nu
+SV02052;Nguyen Hoang Quang;Van;25/10/1991;Nam
+SV02053;Nguyen Thuc;Vy;27/06/1994;Nu
+SV02054;Tran Thi Thanh;Xuan;06/12/1995;Nu
+SV02055;Nguyen Thi Thien;Y;14/09/1993;Nu
+SV02056;Tran Thi Nhu;Y;01/11/1992;Nu
+SV02057;Tran Thi Nhu;Y;23/09/1994;Nu
+SV02058;Nguyen Thien;Khanh;22/01/1993;Nam
+SV02059;Tran Thi;Bong;10/01/1995;Nu
+SV02060;Nguyen Thi;Duyen;12/12/1983;Nu
+SV02061;Nguyen Van;Tan;28/04/1995;Nam
+SV02062;Phan Thi Thu;Thao;04/10/1989;Nu
+SV02063;Nguyen Huu;Thang;27/08/1995;Nam
+SV02064;Vo Thi Thuy;Trang;16/08/1995;Nu
+SV02065;Huynh Minh Quoc;Anh;12/08/1994;Nam
+SV02066;Nguyen Luong Tuan;Anh;30/03/1994;Nam
+SV02067;Tran Diep Hoang;Anh;09/11/1987;Nam
+SV02068;Vo Huu;Bach;19/06/1993;Nam
+SV02069;Hoang Quoc;Bao;04/11/1994;Nam
+SV02070;Dang Thi Ngoc;Bich;26/10/1994;Nu
+SV02071;Bui Phu;Cuong;27/05/1995;Nam
+SV02072;Le Quang;Cuong;21/12/1994;Nam
+SV02073;Nguyen Van;Cuong;02/02/1995;Nam
+SV02074;Hoang;Dung;19/09/1992;Nu
+SV02075;Tran Ngoc;Duy;03/02/1995;Nam
+SV02076;Vo Cong;Duong;22/09/1993;Nam
+SV02077;Dao Tran Viet;Duc;13/05/1994;Nam
+SV02078;Truong Nhu Dong;Hai;07/04/1992;Nu
+SV02079;Nguyen Thi Bich;Hien;23/11/1992;Nu
+SV02080;Nguyen Thi Thanh;Hoa;07/01/1994;Nu
+SV02081;Doan Quang;Huy;08/06/1995;Nam
+SV02082;Truong Ngoc Nguyen;Huy;15/11/1991;Nam
+SV02083;Ho Ngoc;Khoa;03/04/1992;Nam
+SV02084;Huynh Nguyen Anh;Khoa;19/10/1994;Nam
+SV02085;Dang Thi;Loan;24/03/1995;Nam
+SV02086;Nguyen Phuoc Thi Quy;Loan;25/10/1995;Nu
+SV02087;Duong Xuan;Loc;04/02/1993;Nu
+SV02088;Do Van;Loc;06/06/1995;Nam
+SV02089;Nguyen Huu;Loi;11/01/1994;Nam
+SV02090;Le Thi;Me;12/08/1991;Nu
+SV02091;Hoang;Minh;03/01/1991;Nam
+SV02092;Nguyen The Nhat;Nam;09/02/1991;Nam
+SV02093;Phan Dai;Nghia;12/08/1995;Nam
+SV02094;Le Thi Bich;Ngoc;13/12/1994;Nu
+SV02095;Doan Khoa Ngoc;Nhat;23/02/1993;Nam
+SV02096;Duong Thien;Phu;25/01/1995;Nam
+SV02097;Tran Huu;Phuc;02/06/1994;Nam
+SV02098;Dang Thi Anh;Phuong;20/02/1994;Nu
+SV02099;Bui Nguyen Viet;Quan;18/08/1995;Nam
+SV02100;Phan Thanh;Quang;29/04/1991;Nam
+SV02101;Phan Thi Le;Quyen;25/06/1991;Nu
+SV02102;Le Thi Thanh;Tam;17/12/1992;Nu
+SV02103;Vo Quang;Thai;01/10/1994;Nam
+SV02104;Le Nhat Dan;Thanh;23/08/1992;Nu
+SV02105;Le Van;Thao;19/08/1989;Nam
+SV02106;Le Thi Thanh;Thao;21/02/1992;Nu
+SV02107;Luong Van;Tho;25/04/1995;Nam
+SV02108;Vo Thi;Thuy;18/01/1995;Nu
+SV02109;Phan Thi Kim;Tien;26/03/1994;Nu
+SV02110;Dao Xuan;Tri;18/09/1994;Nam
+SV02111;Luong Pham Minh;Tri;06/03/1992;Nam
+SV02112;Ho Thi Ngoc;Trinh;02/02/1995;Nu
+SV02113;Nguyen Phuoc;Trung;18/09/1993;Nam
+SV02114;Hoang Quoc;Tuan;21/06/1994;Nam
+SV02115;Luong Pham Minh;Tue;11/05/1994;Nam
+SV02116;Ly Thanh;Tung;24/10/1995;Nam
+SV02117;Doan Thi;Tuyen;23/02/1995;Nu
+SV02118;Nguyen Van;Tuong;14/10/1995;Nam
+SV02119;Tran Thi Ngoc;Uyen;19/04/1995;Nu
+SV02120;Do Quang;Viet;16/10/1991;Nam
+SV02121;Vu Duy;Viet;07/12/1987;Nam
+SV02122;Do Van;Hai;24/04/1994;Nam
+SV02123;Ho Thi Ai;Thi;24/09/1994;Nu
+SV02124;Huynh Minh;Hieu;28/03/1998;Nam
+SV02125;Ha Thuy;Ngoc;12/03/1998;Nu
+SV02126;Le Thi Hong;Nhung;23/07/1998;Nu
+SV02127;Nguyen Van Thanh;Trung;31/03/1998;Nam
+SV02128;Ho Thi Thuy;Duong;06/05/1998;Nu
+SV02129;Pham Thi Thuy;Dung;09/10/1998;Nu
+SV02130;Nguyen Thi Ngoc;Thuong;02/07/1998;Nu
+SV02131;Le Huy;Hoang;28/03/1998;Nam
+SV02132;Nguyen Thi Minh;Phuong;14/07/1998;Nu
+SV02133;Doan Thi Quynh;Nhu;17/09/1998;Nu
+SV02134;Huynh Thi;Ngoan;10/12/1998;Nu
+SV02135;Luu Duc;Thanh;26/06/1998;Nam
+SV02136;Phan Thi Thu;Thuy;21/09/1998;Nu
+SV02137;Pham Thi Hong;Van;23/08/1998;Nu
+SV02138;Le Thi Bich;Nhat;24/07/1998;Nu
+SV02139;Nguyen Ha Phuong;Nhi;30/05/1998;Nu
+SV02140;Le Nguyen Quynh;Phuong;18/12/1998;Nu
+SV02141;Nguyen Thi Cam;Tu;21/01/1998;Nu
+SV02142;Nguyen Duy;Tuan;24/02/1998;Nam
+SV02143;Phan Thi Tu;Anh;14/02/1998;Nu
+SV02144;Le Thi Luu;Luyen;25/08/1998;Nu
+SV02145;Cong Huyen Ton Nu Uyen;Nhi;08/03/1998;Nu
+SV02146;Le Nguyen Tuyet;Nhi;07/09/1998;Nu
+SV02147;Le Thi Phuong;Linh;15/07/1998;Nu
+SV02149;Ha Nguyen Anh;Trang;29/07/1998;Nu
+SV02150;Nguyen To;Uyen;18/12/1996;Nu
+SV02151;Nguyen Dinh Chi;Trung;25/02/1996;Nam
+SV02152;Lam Nu Ngoc;Anh;01/01/1998;Nu
+SV02153;Hoang Van;Doan;25/12/1998;Nam
+SV02154;Tran Duc;The;02/01/1997;Nam
+SV02155;Duong;Duc;10/07/1997;Nam
+SV02156;Phan Thanh;Hai;25/09/1998;Nam
+SV02157;BOUABAIONE;PHOUVETH;14/08/1992;Nam
+SV02158;Nguyen Van Ky;Truong;30/09/1997;Nam
+SV02159;Nguyen Thi;Be;20/06/1998;Nu
+SV02160;Nguyen Thi;Nhi;28/02/1998;Nu
+SV02161;Ho Thi Thanh;Binh;23/10/1998;Nu
+SV02162;Dao Thi Uyen;Nhi;21/05/1998;Nu
+SV02163;Ngan Van;Quy;20/11/1996;Nam
+SV02164;Nguyen Thi Cam;Tien;05/05/1998;Nu
+SV02166;Va Ba;Nenh;05/08/1997;Nam
+SV02168;Ninh;Ba Ky;23/11/1999;Nam
+SV02167;Nguyen Ngoc;Cham;25/11/1999;Nu
+SV02165;Nguyen Thi Kieu;Anh;23/06/1999;Nu
