@@ -2145,6 +2145,7 @@ SV02144;Le Thi Luu;Luyen;25/08/1998;Nu
 SV02145;Cong Huyen Ton Nu Uyen;Nhi;08/03/1998;Nu
 SV02146;Le Nguyen Tuyet;Nhi;07/09/1998;Nu
 SV02147;Le Thi Phuong;Linh;15/07/1998;Nu
+SV02148;Le Thi Hong;Nhung;28/11/1998;Nu
 SV02149;Ha Nguyen Anh;Trang;29/07/1998;Nu
 SV02150;Nguyen To;Uyen;18/12/1996;Nu
 SV02151;Nguyen Dinh Chi;Trung;25/02/1996;Nam
@@ -2161,7 +2162,8 @@ SV02161;Ho Thi Thanh;Binh;23/10/1998;Nu
 SV02162;Dao Thi Uyen;Nhi;21/05/1998;Nu
 SV02163;Ngan Van;Quy;20/11/1996;Nam
 SV02164;Nguyen Thi Cam;Tien;05/05/1998;Nu
+SV02165;Vuong Hai;Trieu;30/10/1998;Nam
 SV02166;Va Ba;Nenh;05/08/1997;Nam
-SV02168;Ninh;Ba Ky;23/11/1999;Nam
-SV02167;Nguyen Ngoc;Cham;25/11/1999;Nu
-SV02165;Nguyen Thi Kieu;Anh;23/06/1999;Nu
+SV02167;Tran Thi Thanh;Thuy;10/12/1998;Nu
+SV99999;Nguyen Thi Kieu;Anh;23/06/1999;Nu
+SV88888;Ninh Ba;Ky;23/11/1999;Nam

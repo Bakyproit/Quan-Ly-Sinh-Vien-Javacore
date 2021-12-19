@@ -44,7 +44,11 @@ public class SinhVienMain {
 									switch (chucNang) {
 									case 1:// them 1 sinh vien vao danh sach ( ma sinh vien khong duoc trung voi ma sinh vien da co trong danh sach.
 										SinhVien sinhVien  = sinhVienMan.themSinhVien() ;
-										sinhVienMan.addSinhVien(sinhVien);
+										if(sinhVien != null) {
+											sinhVienMan.addSinhVien(sinhVien);
+										}else {
+											System.out.println("sinh vien nul khong ghi vao danh sach");
+										}
 										System.out.println("Them sinh vien thanh cong!");
 										break;
 									case 2:// sua thong tin sinh vien
@@ -106,7 +110,6 @@ public class SinhVienMain {
 		                                String nhap = null ; 
 		                                nhap = s.nextLine() ; 
 		                                if(nhap.equalsIgnoreCase("Y")) {
-		                                	
 		                                	sinhVienMan.timKiemSinhVienTheoMa();
 		                                }else  if(nhap.equalsIgnoreCase("N")) {
 		                                	break ;
