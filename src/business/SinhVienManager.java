@@ -247,6 +247,8 @@ public class SinhVienManager {
 			System.out.println("ma sinh vien da co trong danh sach..");
 		} else {
              sinhVien = nhapThongTinSinhVien(maSinhVien) ;
+             System.out.print("Thong tin sinh vien ban vua them moi : ");
+             System.out.println(sinhVien);
 		}  
 	   return sinhVien;
 	}
@@ -270,26 +272,147 @@ public class SinhVienManager {
 			}
 
 		} while (maSinhVien.isEmpty() || !maSinhVien.matches("^[A-Z]{2}\\d{5}+$"));
-        
-		SinhVien sinhVienUpdate = null ;
+        //luu sinh vien can sua 
+		ArrayList<SinhVien> listSV = new ArrayList<>() ;
+		SinhVien sinhVienUpdate = null ; 
 		for (int i = 0; i < listSinhVien.size(); i++) {
 			if (maSinhVien.equalsIgnoreCase(listSinhVien.get(i).getMaSinhVien())) {
 				// In thong tin sinh vien do
-				sinhVienUpdate = listSinhVien.get(i) ;
+				System.out.print("Thong tin sinh vien ban can sua  :");
 				System.out.println(listSinhVien.get(i));
-				listSinhVien.remove(i);
+				sinhVienUpdate = listSinhVien.get(i) ; 
+				listSV.add(listSinhVien.get(i)) ;
+				
 			}
 		}
+		// xoa sinhvien do
+		System.out.println(listSinhVien.size());
+		listSinhVien.removeAll(listSV) ;
+		System.out.println("da xoa");
+		System.out.println(listSinhVien.size());
 		
-		//kiemtra
-		if(sinhVienUpdate != null) {
+		//kiemtra va cap nhat lai
+		if(listSV.size() != 0) {
 			// nhap lai thong tin can sua
-			sinhVienUpdate = nhapThongTinSinhVien(maSinhVien) ;
-			// add vao list roi in ra file
-			addSinhVien(sinhVienUpdate);
+			Scanner nhap = new Scanner(System.in) ;
+			String luaChon ;
+			// MASV
+			sinhVienUpdate.setMaSinhVien(maSinhVien) ;
+			
+			// sua ho dem
+			System.out.println("Ban co muon sua ho dem : {'y' or 'n'}");
+			luaChon = nhap.nextLine() ; 
+			if(luaChon.equalsIgnoreCase("Y")) {
+				// nhap ho dem
+				String hoDem = null;
+				do {
+					try {
+						System.out.println("moi ban nhap ho dem :");
+						hoDem = sc.nextLine();
+						if (hoDem.isEmpty()) {
+							throw new MyException("Ho dem khong duoc de trong...");
+						}
+						if (!hoDem.matches("^[a-zA-Z\\s]+$")) {
+							throw new MyException("ho dem khong duoc chua ky tu va so...");
+						}
+					} catch (MyException e) {
+						System.out.println(e.getErrorMessage());
+					}
+				} while (hoDem.isEmpty() || !hoDem.matches("^[a-zA-Z\\s]+$"));
+				sinhVienUpdate.setHoDem(hoDem) ; 
+			}else if(luaChon.equalsIgnoreCase("N")) {
+				System.out.println("Ho dem khong duoc thay doi : ");
+			}
+			
+			// sua ten
+			System.out.println("Ban co muon sua Ten: {'y' or 'n'}");
+			luaChon = nhap.nextLine() ; 
+			if(luaChon.equalsIgnoreCase("Y")) {
+				// nhap ten sinh vien
+				String ten = null;
+				do {
+					try {
+						System.out.println("moi ban nhap ten :");
+						ten = sc.nextLine();
+						if (ten.isEmpty()) {
+							throw new MyException("ten khong duoc de trong...");
+						}
+						if (!ten.matches("^[a-zA-Z\\s]+$")) {
+							throw new MyException("ten khong duoc chua ky tu va so...");
+						}
+					} catch (MyException e) {
+						System.out.println(e.getErrorMessage());
+					}
+				} while (ten.isEmpty() || !ten.matches("^[a-zA-Z\\s]+$"));
+				sinhVienUpdate.setTen(ten)  ;
+			}else if(luaChon.equalsIgnoreCase("N")) {
+				System.out.println("Ten khong duoc thay doi : ");
+			}
+			// sua ngay sinh
+			System.out.println("Ban co muon sua ngay sinh: {'y' or 'n'}");
+			luaChon = nhap.nextLine() ; 
+			if(luaChon.equalsIgnoreCase("Y")) {
+				// nhap ngay sinh
+				SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+				String ngaySinh = null;
+				do {
+					try {
+						System.out.println("moi ban nhap ngay sinh:");
+						ngaySinh = sc.nextLine();
+						if (ngaySinh.isEmpty()) {
+							throw new MyException("Ngay sinh khong duoc de trong...");
+						} else if (!ngaySinh.matches("^\\d{1,2}[/]\\d{1,2}[/]\\d{4}+$")) {
+							throw new MyException("ban nhap sai dinh dang...dd/MM/yyyy");
+						}
+					} catch (MyException e) {
+						System.out.println(e.getErrorMessage());
+					}
+				} while (ngaySinh.isEmpty() || !ngaySinh.matches("^\\d{1,2}[/]\\d{1,2}[/]\\d{4}+$"));
+				// chuyen ngay sinh ve dang date
+				Date ns = null;
+				try {
+					ns = sdf.parse(ngaySinh);
+				} catch (ParseException e) {
+					e.printStackTrace();
+				}
+				sinhVienUpdate.setNgaySinh(ns) ;
+			}else if(luaChon.equalsIgnoreCase("N")) {
+				System.out.println("Ngay sinh khong duoc thay doi : ");
+			}
+			// sua gioi tinh 
+			System.out.println("Ban co muon sua gioi tinh : {'y' or 'n'}");
+			luaChon = nhap.nextLine() ; 
+			if(luaChon.equalsIgnoreCase("Y")) {
+				// nhap gioi tinh
+				int gioiTinh = 0;
+				do {
+					try {
+						System.out.println("Moi ban nhap gioi tinh: {1. Nam 2.Nu  }");
+						gioiTinh = sc.nextInt();
+
+					} catch (InputMismatchException e) {
+						System.out.println("ban nhap sai dinh dang..");
+						sc.next();
+					}
+				} while (gioiTinh != 1 && gioiTinh != 2);
+				
+				if (gioiTinh == 1) {
+					sinhVienUpdate.setGioiTinh(GioiTinh.Nam);
+				} else if (gioiTinh == 2) {
+					sinhVienUpdate.setGioiTinh(GioiTinh.Nu);
+				}
+			}else if(luaChon.equalsIgnoreCase("N")) {
+				System.out.println("Gioi tinh  khong duoc thay doi : ");
+			}
+			
 		}else {
 			System.out.println("khong tim thay sinh vien trong danh sach...");
 		}
+		System.out.print("sinh vien sau khi sua :");
+		System.out.println(sinhVienUpdate);
+		// add vao list roi in ra file
+		addSinhVien(sinhVienUpdate);
+		System.out.println(listSinhVien.size());
 	}
 
 	public void xoaThongTinSinhVien() throws IOException {
@@ -302,7 +425,6 @@ public class SinhVienManager {
 		}
 
 		Scanner sc = new Scanner(System.in);
-		SinhVien sinhVienDelete = null;
 		// nhap ma sinh vien can xoa
 		String maSinhVien = null;
 		do {
@@ -343,21 +465,33 @@ public class SinhVienManager {
 			}
 		}
 		// XOA SINH VIEN NEU SINH VIEN CHUA CO DIEM MON HOC
-		
+		ArrayList<SinhVien> listSVDelete = new ArrayList<>() ;
 		if (kiemTraDiem == false) {
 			for (int i = 0; i < listSinhVien.size(); i++) {
 				if (maSinhVien.equalsIgnoreCase(listSinhVien.get(i).getMaSinhVien())) {
 					// in ra sinh vien do
-					sinhVienDelete = listSinhVien.get(i);
+		            System.out.print("Sinh vien ban muon xoa :  " );
 					System.out.println(listSinhVien.get(i));
-					// xoa sinh vien do ra khoi danh sach
-					listSinhVien.remove(i);
-					System.out.println("da xoa..");
+					listSVDelete.add(listSinhVien.get(i)) ; 
+					
+					
 				}
+			}
+			// xoa sinh vien do ra khoi danh sach
+			System.out.println("Ban co chac muon xoa sinh vien ra khoi danh sach :{Nhap 'y' neu muon khong nhap 'n'...}");
+			Scanner nhap = new Scanner(System.in) ; 
+			String luaChon = nhap.nextLine() ; 
+			if(luaChon.equalsIgnoreCase("y")) {
+				listSinhVien.removeAll(listSVDelete) ;
+				System.out.println("da xoa sinh vien thanh cong:");
+			}else if(luaChon.equalsIgnoreCase("n")) {
+				 
+				System.out.println("xoa khong thanh cong");
 			}
 		
 		// in ra file
-		if(sinhVienDelete != null) {
+		if(listSVDelete.size() != 0) {
+			// ghi file
 			save(FILE_NAME) ; 
 		}else {
 			System.out.println("khong duoc ghi  sinh vien null ra file..");

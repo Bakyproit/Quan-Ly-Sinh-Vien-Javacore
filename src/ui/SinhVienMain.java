@@ -57,7 +57,6 @@ public class SinhVienMain {
 										break;
 									case 3: // xoa thong tin sinh vien
 										sinhVienMan.xoaThongTinSinhVien();
-										System.out.println("Xoa thanh cong !");
 										break;
 									case 4:// hien thi danh sach sinh vien sap xep theo ten
 										sinhVienMan.sortSinhVienTheoTen() ;

@@ -2166,4 +2166,4 @@ SV02165;Vuong Hai;Trieu;30/10/1998;Nam
 SV02166;Va Ba;Nenh;05/08/1997;Nam
 SV02167;Tran Thi Thanh;Thuy;10/12/1998;Nu
 SV99999;Nguyen Thi Kieu;Anh;23/06/1999;Nu
-SV88888;Ninh Ba;Ky;23/11/1999;Nam
+SV88888;Ninh Ba;Ky;25/11/1998;Nam
