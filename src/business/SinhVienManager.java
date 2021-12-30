@@ -125,7 +125,6 @@ public class SinhVienManager {
 	public SinhVien nhapThongTinSinhVien(String maSinhVien) throws MyException {
 		Scanner sc = new Scanner(System.in) ;
 		// nhap ho dem
-
 		String hoDem = null;
 		do {
 			try {
@@ -141,6 +140,7 @@ public class SinhVienManager {
 				System.out.println(e.getErrorMessage());
 			}
 		} while (hoDem.isEmpty() || !hoDem.matches("^[a-zA-Z\\s]+$"));
+		
 		// nhap ten sinh vien
 		String ten = null;
 		do {
@@ -157,6 +157,7 @@ public class SinhVienManager {
 				System.out.println(e.getErrorMessage());
 			}
 		} while (ten.isEmpty() || !ten.matches("^[a-zA-Z\\s]+$"));
+		
 		// nhap ngay sinh
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		String ngaySinh = null;
@@ -225,13 +226,11 @@ public class SinhVienManager {
 				System.out.println(e.getErrorMessage());
 				System.out.println("loi so sanh voi phan tu null...");
 			}
-
 		} while (maSinhVien.isEmpty() || !maSinhVien.matches("^[A-Z]{2}\\d{5}+$"));
 
 		ArrayList<SinhVien> listSinhVienFound = new ArrayList<>() ;
 		
 		for (SinhVien sinhVien1 : listSinhVien) {
-            
 			try {
 				if (maSinhVien.equalsIgnoreCase(sinhVien1.getMaSinhVien())) {
 					listSinhVienFound.add(sinhVien1) ;
@@ -270,8 +269,8 @@ public class SinhVienManager {
 			} catch (MyException e) {
 				System.out.println(e.getErrorMessage());
 			}
-
 		} while (maSinhVien.isEmpty() || !maSinhVien.matches("^[A-Z]{2}\\d{5}+$"));
+		
         //luu sinh vien can sua 
 		ArrayList<SinhVien> listSV = new ArrayList<>() ;
 		SinhVien sinhVienUpdate = null ; 
@@ -282,15 +281,11 @@ public class SinhVienManager {
 				System.out.println(listSinhVien.get(i));
 				sinhVienUpdate = listSinhVien.get(i) ; 
 				listSV.add(listSinhVien.get(i)) ;
-				
 			}
 		}
-		// xoa sinhvien do
-		System.out.println(listSinhVien.size());
+		// xoa sinhvien do khoi list	
 		listSinhVien.removeAll(listSV) ;
-		System.out.println("da xoa");
-		System.out.println(listSinhVien.size());
-		
+	
 		//kiemtra va cap nhat lai
 		if(listSV.size() != 0) {
 			// nhap lai thong tin can sua
@@ -412,7 +407,6 @@ public class SinhVienManager {
 		System.out.println(sinhVienUpdate);
 		// add vao list roi in ra file
 		addSinhVien(sinhVienUpdate);
-		System.out.println(listSinhVien.size());
 	}
 
 	public void xoaThongTinSinhVien() throws IOException {
@@ -440,7 +434,7 @@ public class SinhVienManager {
 				System.out.println(e.getErrorMessage());
 			}
 		} while (maSinhVien.isEmpty() || !maSinhVien.matches("^[A-Z]{2}\\d{5}+$"));
-
+		
 		// tao list de luu danh sach diem cua 1 sv trung voi ma nhap vao
 		ArrayList<BangDiem> listFouds = new ArrayList<>();
 		// duyet list diem
@@ -473,8 +467,6 @@ public class SinhVienManager {
 		            System.out.print("Sinh vien ban muon xoa :  " );
 					System.out.println(listSinhVien.get(i));
 					listSVDelete.add(listSinhVien.get(i)) ; 
-					
-					
 				}
 			}
 			// xoa sinh vien do ra khoi danh sach
@@ -483,20 +475,16 @@ public class SinhVienManager {
 			String luaChon = nhap.nextLine() ; 
 			if(luaChon.equalsIgnoreCase("y")) {
 				listSinhVien.removeAll(listSVDelete) ;
-				System.out.println("da xoa sinh vien thanh cong:");
+				System.out.println("Ban da xoa sinh vien thanh cong:");
 			}else if(luaChon.equalsIgnoreCase("n")) {
-				 
 				System.out.println("xoa khong thanh cong");
 			}
-		
-		// in ra file
-		if(listSVDelete.size() != 0) {
+		    // in ra file
+		    if(listSVDelete.size() != 0) {
 			// ghi file
 			save(FILE_NAME) ; 
-		}else {
-			System.out.println("khong duoc ghi  sinh vien null ra file..");
-		}	
-	  }
+		    }	
+	     }
 	}
 
 	public void sortSinhVienTheoTen() throws IOException {
@@ -516,7 +504,7 @@ public class SinhVienManager {
 
 			e1.printStackTrace();
 		}
-		// System.out.println(diemMan.listDiem.size());
+		
 		// lay danh sach mon hoc
 		MonHocManager monHocMan = null;
 		try {
@@ -524,18 +512,17 @@ public class SinhVienManager {
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
-		// System.out.println(monHocMan.listMonHoc.size());
-		// sap xep danh sach theo ma
-
+		
+		// sap xep danh sach theo ma sinh vien
 		listSinhVien.sort((a, b) -> a.getMaSinhVien().compareTo(b.getMaSinhVien()));
-
-		//
 
 		// duyet
 
 		for (int i = 0; i < listSinhVien.size(); i++) {
+			System.out.println("---------------------------------------------");
 			System.out.printf("|%-10s|%-20s|%-11s|%n", listSinhVien.get(i).getMaSinhVien(),
 					listSinhVien.get(i).getFullName(), listSinhVien.get(i).getNgaySinh());
+			System.out.println("---------------------------------------------");
 			float sum = 0;
 			float heSo = 0;
 			for (int j = 0; j < diemMan.listDiem.size(); j++) {
@@ -547,10 +534,9 @@ public class SinhVienManager {
 					for (int z = 0; z < monHocMan.listMonHoc.size(); z++) {
 						if (diemMan.listDiem.get(j).getMaMonHoc().equalsIgnoreCase(monHocMan.listMonHoc.get(z).getMaMonHoc())) {
 							//
-							System.out.printf("|%-10s|%-20s|%-11.2f|%-5.1f|%n",
-									monHocMan.listMonHoc.get(z).getMaMonHoc(),
-									monHocMan.listMonHoc.get(z).getTenMonHoc(), diemMan.listDiem.get(j).getDiemSo(),
-									monHocMan.listMonHoc.get(z).getHeSoMon());
+							System.out.printf("|%-10s|%-20s|%-11.2f|%n", monHocMan.listMonHoc.get(z).getMaMonHoc(),
+									monHocMan.listMonHoc.get(z).getTenMonHoc(), diemMan.listDiem.get(j).getDiemSo()) ;
+							
 							//
 							heSo += monHocMan.listMonHoc.get(z).getHeSoMon();
 							sum += (diemMan.listDiem.get(j).getDiemSo() * monHocMan.listMonHoc.get(z).getHeSoMon());
@@ -562,10 +548,10 @@ public class SinhVienManager {
 			// System.out.println(sum +"\t"+ heSo);
 			if (heSo == 0) {
 				System.out.println("|Sinh vien chua co diem mon hoc nao         |");
-				System.out.format("|%-31s|%-11f|%n", "Diem Tong Ket", 0f);
+				System.out.format("|%-31s %-11.2f|%n", "Diem Tong Ket", 0f);
 			} else {
 				float diemTongKet = sum / heSo;
-				System.out.format("|%-31s|%-11.2f|%n", "Diem Tong Ket", diemTongKet);
+				System.out.format("|%-31s %-11.2f|%n", "Diem Tong Ket", diemTongKet);
 			}
 		}
 
@@ -577,10 +563,9 @@ public class SinhVienManager {
 		try {
 			diemMan = new DiemManager();
 		} catch (IOException e1) {
-
 			e1.printStackTrace();
 		}
-		// System.out.println(diemMan.listDiem.size());
+		
 		// lay danh sach mon hoc
 		MonHocManager monHocMan = null;
 		try {
@@ -588,13 +573,13 @@ public class SinhVienManager {
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
-		// System.out.println(monHocMan.listMonHoc.size());
-
 		//
 		for (int i = 0; i < listSinhVien.size(); i++) {
 			if (maSinhVien.equalsIgnoreCase(listSinhVien.get(i).getMaSinhVien())) {
+				System.out.println("---------------------------------------------");
 				System.out.printf("|%-10s|%-20s|%-11s|%n", listSinhVien.get(i).getMaSinhVien(),
 						listSinhVien.get(i).getFullName(), listSinhVien.get(i).getNgaySinh());
+				System.out.println("---------------------------------------------");
 			}
 		}
 
@@ -623,10 +608,12 @@ public class SinhVienManager {
 		// System.out.println(sum +"\t"+ heSo);
 		if (heSo == 0) {
 			System.out.println("|Sinh vien chua co diem mon hoc nao         |");
-			System.out.format("|%-31s|%-11f|%n", "Diem Tong Ket", 0f);
+			System.out.format("|%-31s %-11.2f|%n", "Diem Tong Ket", 0f);
+			System.out.println("---------------------------------------------");
 		} else {
 			float diemTongKet = sum / heSo;
-			System.out.format("|%-31s|%-11.2f|%n", "Diem Tong Ket", diemTongKet);
+			System.out.format("|%-31s %-11.2f|%n", "Diem Tong Ket", diemTongKet);
+			System.out.println("---------------------------------------------");
 		}
 	}
 

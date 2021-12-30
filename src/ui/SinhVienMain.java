@@ -46,10 +46,10 @@ public class SinhVienMain {
 										SinhVien sinhVien  = sinhVienMan.themSinhVien() ;
 										if(sinhVien != null) {
 											sinhVienMan.addSinhVien(sinhVien);
+											System.out.println("Them sinh vien thanh cong!");
 										}else {
-											System.out.println("sinh vien nul khong ghi vao danh sach");
+											System.out.println("sinh vien null khong ghi vao danh sach");
 										}
-										System.out.println("Them sinh vien thanh cong!");
 										break;
 									case 2:// sua thong tin sinh vien
 								        sinhVienMan.suaThongTinSinhVien();
@@ -122,7 +122,7 @@ public class SinhVienMain {
 								}
 		
 							} catch (InputMismatchException e) {
-								System.out.println("Ban nhap sai dinh dang cua chuc nang...");
+								System.out.println("Ban nhap sai dinh dang cua chuc nang1...");
 								sc.next();
 							}
 							
@@ -141,7 +141,7 @@ public class SinhVienMain {
 				System.out.println(e.getErrorMessage());
 				sc.next() ;
 			}
-
+          
 		} while (chooise != 1 && chooise != 2 && chooise != 3 && chooise != 4);
 		sc.close();
 

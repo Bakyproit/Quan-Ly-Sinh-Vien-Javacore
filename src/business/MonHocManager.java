@@ -70,7 +70,6 @@ public class MonHocManager {
 	public void save(MonHoc monHoc, String fileMonhoc) throws IOException {
 		FileWriter fileW = null;
 		BufferedWriter bufferW = null;
-
 		try {
 			// mo file
 			File file = new File(fileMonhoc);
@@ -84,7 +83,6 @@ public class MonHocManager {
 			}
 
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} finally {
 			if (bufferW != null) {
