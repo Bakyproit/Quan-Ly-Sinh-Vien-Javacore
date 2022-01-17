@@ -53,7 +53,6 @@ public class SinhVienMain {
 										break;
 									case 2:// sua thong tin sinh vien
 								        sinhVienMan.suaThongTinSinhVien();
-										System.out.println("Sua sinh vien thanh cong!");
 										break;
 									case 3: // xoa thong tin sinh vien
 										sinhVienMan.xoaThongTinSinhVien();
@@ -94,8 +93,7 @@ public class SinhVienMain {
 									chucNang1 = sc.nextInt();
 									switch (chucNang1) {
 									case 1://tim kiem sinh vien theo ma sinh vien
-										sinhVienMan.timKiemSinhVienTheoMa();
-				                     
+										sinhVienMan.timKiemSinhVienTheoMa();                   
 										break ;
 									case 2:// tim kiem sinh vien theo ten
 										ArrayList<SinhVien> listTen = sinhVienMan.timKiemSinhVienTheoTen() ;
@@ -175,6 +173,5 @@ public class SinhVienMain {
 		System.out.println("2 . Hien thi danh sach cac sinh vien trung voi ten( tim kiem theo ten sinh vien ) .");
 		System.out.println("3 . Exits");
 	}
-
 
 }

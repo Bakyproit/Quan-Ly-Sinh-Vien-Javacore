@@ -271,7 +271,7 @@ public class SinhVienManager {
 			}
 		} while (maSinhVien.isEmpty() || !maSinhVien.matches("^[A-Z]{2}\\d{5}+$"));
 		
-        //luu sinh vien can sua 
+        //kiem tra xem sinh vien do co trong danh sach khong 
 		ArrayList<SinhVien> listSV = new ArrayList<>() ;
 		SinhVien sinhVienUpdate = null ; 
 		for (int i = 0; i < listSinhVien.size(); i++) {
@@ -399,14 +399,15 @@ public class SinhVienManager {
 			}else if(luaChon.equalsIgnoreCase("N")) {
 				System.out.println("Gioi tinh  khong duoc thay doi : ");
 			}
-			
+			System.out.print("sinh vien sau khi sua :");
+			System.out.println(sinhVienUpdate);
+			// add vao list roi in ra file
+			addSinhVien(sinhVienUpdate);
+			System.out.println("Sua sinh vien thanh cong!");
 		}else {
 			System.out.println("khong tim thay sinh vien trong danh sach...");
 		}
-		System.out.print("sinh vien sau khi sua :");
-		System.out.println(sinhVienUpdate);
-		// add vao list roi in ra file
-		addSinhVien(sinhVienUpdate);
+		
 	}
 
 	public void xoaThongTinSinhVien() throws IOException {
@@ -470,20 +471,23 @@ public class SinhVienManager {
 				}
 			}
 			// xoa sinh vien do ra khoi danh sach
-			System.out.println("Ban co chac muon xoa sinh vien ra khoi danh sach :{Nhap 'y' neu muon khong nhap 'n'...}");
-			Scanner nhap = new Scanner(System.in) ; 
-			String luaChon = nhap.nextLine() ; 
-			if(luaChon.equalsIgnoreCase("y")) {
-				listSinhVien.removeAll(listSVDelete) ;
-				System.out.println("Ban da xoa sinh vien thanh cong:");
-			}else if(luaChon.equalsIgnoreCase("n")) {
-				System.out.println("xoa khong thanh cong");
-			}
+	        
+			System.out.println(listSVDelete.size());
 		    // in ra file
 		    if(listSVDelete.size() != 0) {
-			// ghi file
+		    	System.out.println("Ban co chac muon xoa sinh vien ra khoi danh sach :{Nhap 'y' neu muon khong nhap 'n'...}");
+		    	Scanner nhap = new Scanner(System.in) ; 
+				String luaChon = nhap.nextLine() ; 
+				if(luaChon.equalsIgnoreCase("y")) {
+					listSinhVien.removeAll(listSVDelete) ;
+					System.out.println("Ban da xoa sinh vien thanh cong:");
+				}else if(luaChon.equalsIgnoreCase("n")) {
+					System.out.println("xoa khong thanh cong");
+				}
 			save(FILE_NAME) ; 
-		    }	
+		    }else { 
+		    	System.out.println("sinh vien khong co trong danh sach : ");
+		    }
 	     }
 	}
 

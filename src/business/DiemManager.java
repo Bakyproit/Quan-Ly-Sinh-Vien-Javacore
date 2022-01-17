@@ -27,7 +27,7 @@ public class DiemManager {
 	public void addDiem(BangDiem diem) throws IOException {
 		listDiem.add(diem);
 		// ghi du lieu ra file
-		save(diem, FILE_DIEM);
+		save(FILE_DIEM);
 	}
 
 	private void load(String fileDiem) throws IOException {
@@ -64,7 +64,7 @@ public class DiemManager {
 		}
 
 	}
-	private void save(BangDiem diem, String fileDiem) throws IOException {
+	private void save(String fileDiem) throws IOException {
 		FileWriter fileW = null;
 		BufferedWriter bufferW = null;
 

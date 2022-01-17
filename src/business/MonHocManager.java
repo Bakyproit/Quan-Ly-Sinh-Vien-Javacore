@@ -28,7 +28,7 @@ public class MonHocManager {
 	public void addMonHoc(MonHoc monHoc) throws IOException {
 		listMonHoc.add(monHoc);
 		// ghi mon hoc
-		save(monHoc, FILE_MONHOC);
+		save(FILE_MONHOC);
 	}
 
 	public void load(String fileMonhoc) throws IOException {
@@ -67,7 +67,7 @@ public class MonHocManager {
 
 	}
 
-	public void save(MonHoc monHoc, String fileMonhoc) throws IOException {
+	public void save( String fileMonhoc) throws IOException {
 		FileWriter fileW = null;
 		BufferedWriter bufferW = null;
 		try {
@@ -100,7 +100,7 @@ public class MonHocManager {
 		System.out.println("danh sach mon hoc da duoc sap xep : ");
 		for (MonHoc monHoc : listMonHoc) {
 			System.out.println(monHoc);
-			save(monHoc, "data/monhocdasapxep.txt");
+			save("data/monhocdasapxep.txt");
 		}
 	}
 }
