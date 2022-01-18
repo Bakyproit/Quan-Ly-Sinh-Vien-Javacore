@@ -79,9 +79,9 @@ public class SinhVienMain {
 								&& chucNang != 6);
 						break;
 					case 2:// hien thi bang diem cua sinh vien
-						
+						 System.out.println("Hien thi");
 						sinhVienMan.hienThiDanhSachSinhVien();
-                        System.out.println("Hien thi");
+                        
 						break;
 					case 3:// tim kiem sinh vien 
 						

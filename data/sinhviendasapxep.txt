@@ -113,6 +113,7 @@ SV02067;Tran Diep Hoang;Anh;09/11/1987;Nam
 SV02143;Phan Thi Tu;Anh;14/02/1998;Nu
 SV02152;Lam Nu Ngoc;Anh;01/01/1998;Nu
 SV99999;Nguyen Thi Kieu;Anh;23/06/1999;Nu
+SV55555;Bui Hoang;Anh;12/12/1998;Nam
 SV00355;Nguyen Thi Phuong;Bac;18/09/1998;Nu
 SV01413;Nguyen Van;Bach;01/06/1998;Nam
 SV01841;Kim Dinh;Bach;16/03/1993;Nam
@@ -156,6 +157,7 @@ SV01414;Nguyen Van Huy;Can;03/11/1998;Nam
 SV00074;Trinh Ba;Cao;09/02/1997;Nam
 SV01736;Tran Dinh Dieu;Cat;02/04/1998;Nu
 SV01865;Le Viet Hoang;Cat;21/09/1993;Nam
+SV77777;Nguyen Ngoc;Cham;25/11/1999;Nu
 SV00292;Nguyen Boi;Chan;08/05/1998;Nu
 SV00142;Trieu Thi Quynh;Chau;16/10/1998;Nu
 SV00399;Nguyen Le Ngoc;Chau;02/11/1998;Nu
@@ -501,6 +503,7 @@ SV01581;Nguyen Dinh Minh;Hieu;01/11/1998;Nam
 SV01702;Phan Dinh;Hieu;01/05/1998;Nam
 SV01986;Le Van;Hieu;11/05/1993;Nam
 SV02124;Huynh Minh;Hieu;28/03/1998;Nam
+SV44444;Ho Quang;Hieu;12/12/1998;Nam
 SV00023;Tran Thi;Hoa;01/08/1996;Nu
 SV00024;Tran Thi Thu;Hoa;04/07/1998;Nu
 SV00510;Nguyen Thi Thanh;Hoa;01/02/1998;Nu
@@ -731,7 +734,6 @@ SV00639;Nguyen Thi Thuy;Kieu;30/01/1998;Nu
 SV01102;Nguyen Thi;Kieu;03/02/1998;Nu
 SV01535;Le Thi Thu;Kieu;06/07/1998;Nu
 SV00154;Do Van Hai;Ky;04/10/1998;Nam
-SV88888;Ninh Ba;Ky;25/11/1998;Nam
 SV00118;KEOMANY;LONG;04/05/1996;Nam
 SV00311;Ar Va;La;15/04/1997;Nu
 SV00155;Vo Minh;Lai;30/04/1998;Nam
@@ -1633,6 +1635,7 @@ SV01934;Pham Thi Minh;Thanh;19/04/1992;Nu
 SV02035;Le Nhu;Thanh;02/10/1988;Nam
 SV02104;Le Nhat Dan;Thanh;23/08/1992;Nu
 SV02135;Luu Duc;Thanh;26/06/1998;Nam
+SV66666;Ninh Thi;Thanh;17/05/1999;Nu
 SV00045;Nguyen Thi Phuong;Thao;01/01/1998;Nu
 SV00341;Ho Thi Phuong;Thao;26/03/1998;Nu
 SV00386;Le Thi Thu;Thao;11/07/1998;Nu
@@ -1833,7 +1836,6 @@ SV01829;Nguyen Thi Thao;Tien;24/12/1988;Nu
 SV01830;Tran Nguyen Quynh;Tien;25/10/1988;Nu
 SV01944;Le Duc;Tien;20/09/1994;Nam
 SV02109;Phan Thi Kim;Tien;26/03/1994;Nu
-SV02164;Nguyen Thi Cam;Tien;05/05/1998;Nu
 SV00538;Le Ngoc;Tiep;26/05/1998;Nam
 SV01127;Truong Thi;Tiep;15/03/1998;Nu
 SV01004;Ho Van;Tin;02/08/1998;Nam
